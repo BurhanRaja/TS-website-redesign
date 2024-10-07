@@ -1,0 +1,55 @@
+<svg width="352" height="376" viewBox="0 0 352 376" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="352" height="376" rx="34" fill="white"/>
+<circle cx="130.5" cy="271.5" r="27.5" fill="black"/>
+<circle cx="130" cy="271" r="19" fill="#EA550F"/>
+<rect x="117" y="80" width="111" height="109" rx="10" fill="#A6C626"/>
+<rect x="33" y="89" width="57" height="69" rx="8" fill="#EA550F"/>
+<rect x="44" y="118" width="90" height="160" rx="10" fill="#F5F5F5"/>
+<rect x="149" y="118" width="176" height="123" rx="10" fill="#F5F5F5"/>
+<path d="M44 129C44 121.268 50.268 115 58 115H120C127.732 115 134 121.268 134 129V131H44V129Z" fill="#D9D9D9"/>
+<path d="M149 128C149 121.373 154.373 116 161 116H313C319.627 116 325 121.373 325 128V132H149V128Z" fill="#D9D9D9"/>
+<rect x="52" y="121" width="25" height="5" rx="2.5" fill="#F5F5F5"/>
+<rect x="61" y="220" width="57" height="19" rx="8" fill="#A6C626"/>
+<rect x="162" y="122" width="55" height="5" rx="2.5" fill="#F5F5F5"/>
+<circle cx="119" cy="124" r="3" fill="#F5F5F5"/>
+<circle cx="310" cy="124" r="3" fill="#F5F5F5"/>
+<circle cx="299" cy="124" r="3" fill="#F5F5F5"/>
+<rect x="54.5" y="140.5" width="69" height="67" stroke="#D9D9D9"/>
+<path d="M55 207L123 141" stroke="#D9D9D9" stroke-linecap="round"/>
+<path d="M123 207L55 140" stroke="#D9D9D9" stroke-linecap="round"/>
+<rect x="130" y="65" width="30" height="30" rx="5" fill="black"/>
+<line x1="137.707" y1="73" x2="153" y2="88.2929" stroke="white" stroke-linecap="round"/>
+<line x1="153" y1="72.7071" x2="137.707" y2="88" stroke="white" stroke-linecap="round"/>
+<circle cx="67" cy="256" r="6" fill="#D9D9D9"/>
+<circle cx="90" cy="256" r="6" fill="#D9D9D9"/>
+<circle cx="113" cy="256" r="6" fill="#D9D9D9"/>
+<rect x="240" y="166" width="36" height="27" rx="4" fill="#D9D9D9"/>
+<rect x="199" y="166" width="36" height="27" rx="4" fill="#D9D9D9"/>
+<rect x="265" y="221" width="38" height="38" rx="4" fill="#EA550F"/>
+<rect x="189" y="256" width="69" height="7" rx="2" fill="#EA550F"/>
+<rect x="189" y="267" width="56" height="7" rx="2" fill="#EA550F" fill-opacity="0.7"/>
+<rect x="189" y="277" width="32" height="7" rx="2" fill="#EA550F" fill-opacity="0.34"/>
+<rect x="158" y="166" width="36" height="27" rx="4" fill="#D9D9D9"/>
+<path d="M185 148C185 146.895 185.895 146 187 146H272V155H187C185.895 155 185 154.105 185 153V148Z" fill="#D9D9D9"/>
+<path d="M272 146H285C286.105 146 287 146.895 287 148V153C287 154.105 286.105 155 285 155H272V146Z" fill="#373737"/>
+<rect x="281" y="166" width="36" height="27" rx="4" fill="#D9D9D9"/>
+<rect x="263" y="219" width="7" height="7" rx="1" fill="black"/>
+<rect x="263" y="255" width="7" height="7" rx="1" fill="black"/>
+<rect x="298" y="219" width="7" height="7" rx="1" fill="black"/>
+<rect x="298" y="255" width="7" height="7" rx="1" fill="black"/>
+<circle cx="284" cy="234" r="6.5" stroke="white"/>
+<path d="M272.5 250.696C272.5 246.169 276.169 242.5 280.696 242.5H287.909C292.654 242.5 296.5 246.346 296.5 251.091C296.5 251.317 296.317 251.5 296.091 251.5H273.304C272.86 251.5 272.5 251.14 272.5 250.696Z" stroke="white"/>
+<path d="M269.239 71.987C267.424 77.8043 261.235 81.0491 255.416 79.2335C249.596 77.4179 246.35 71.2298 248.165 65.4125C249.98 59.5952 256.168 56.3503 261.988 58.1659C267.808 59.9815 271.054 66.1697 269.239 71.987Z" stroke="black" stroke-width="3"/>
+<path d="M266.12 77.3085L276.543 89.0001" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<rect x="172" y="295" width="128" height="19" fill="#D9D9D9"/>
+<rect x="172" y="295" width="25" height="19" fill="#A6C626"/>
+<rect x="197" y="295" width="25" height="19" fill="#EA550F"/>
+<rect x="222" y="295" width="26" height="19" fill="#F5F5F5"/>
+<rect x="248" y="295" width="26" height="19" fill="black"/>
+<rect x="44" y="287" width="32" height="17" rx="8.5" fill="#F5F5F5"/>
+<circle cx="67.5" cy="295.5" r="8.5" fill="#EA550F"/>
+<circle cx="202.5" cy="98.5" r="3" stroke="black"/>
+<circle cx="215.5" cy="98.5" r="3" stroke="black"/>
+<circle cx="227.5" cy="98.5" r="3" stroke="black"/>
+<circle cx="239.5" cy="98.5" r="3.5" fill="#EA550F"/>
+</svg>
