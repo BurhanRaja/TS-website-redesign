@@ -1,0 +1,37 @@
+<svg width="271" height="307" viewBox="0 0 271 307" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="1" y="233.323" width="258" height="71" rx="8" fill="#A6C626"/>
+<path d="M258.22 147.995L128.448 18.0119L0.955584 148.081L258.22 147.995Z" fill="#A6C626"/>
+<rect x="1" y="144.323" width="258" height="89" rx="8" fill="#A6C626"/>
+<g filter="url(#filter0_d_214_118)">
+<rect x="37" y="69.3228" width="184" height="164" fill="#F6F6F4"/>
+</g>
+<rect x="111" y="167" width="38" height="38" fill="url(#pattern0_214_118)"/>
+<path d="M1 157.06C1 152.299 6.28004 149.434 10.2715 152.03L127.491 228.274C131.317 230.763 131.074 236.443 127.049 238.595L9.8294 301.278C5.83255 303.416 1.00004 300.52 1.00003 295.987L1 157.06Z" fill="#EA550F"/>
+<path d="M259 157.428C259 152.657 253.702 149.795 249.711 152.409L133.427 228.609C129.624 231.101 129.867 236.753 133.87 238.91L250.154 301.557C254.152 303.711 259 300.816 259 296.275L259 157.428Z" fill="#EA550F"/>
+<path d="M259 271.548C259 268.874 257.231 266.523 254.661 265.783L133.045 230.741C126.009 228.714 122.165 238.657 128.734 241.89L250.351 301.743C254.338 303.705 259 300.804 259 296.36V271.548Z" fill="#A6C626"/>
+<path d="M1 270.102C1 267.38 2.83314 264.998 5.46513 264.302L127.087 232.119C134.119 230.258 137.779 240.171 131.224 243.325L9.60201 301.86C5.61853 303.777 1 300.874 1 296.454V270.102Z" fill="#A6C626"/>
+<path d="M57 92.3228H197" stroke="#D9D9D9" stroke-width="8" stroke-linecap="round"/>
+<path d="M57 110.323H197" stroke="#D9D9D9" stroke-width="8" stroke-linecap="round"/>
+<path d="M57 128.323H197" stroke="#D9D9D9" stroke-width="8" stroke-linecap="round"/>
+<path d="M57 146.323H197" stroke="#D9D9D9" stroke-width="8" stroke-linecap="round"/>
+<path d="M259.874 134.614C255.462 125.668 254.732 119.989 255.347 111.168C255.347 111.168 255.666 106.668 256.847 102.668C258.027 98.668 258.27 97.9775 258.709 94.9043C260.128 84.9742 262.391 64.7333 251.347 55.7461C244.492 50.168 231.847 48.668 230.347 60.668C230.347 76.168 244.837 80.5647 254.113 80.5647C264.33 80.5647 270.347 65.168 268.347 55.7461C267.057 49.668 262.729 44.668 256.847 40.668C253.119 38.1327 249.144 36.2416 244.492 34.7881C235.834 32.0824 228.847 33.478 224.347 32.668C219.847 31.8579 212.847 30.1213 206.989 27.0668C203.347 25.168 200.347 23.168 197 21" stroke="#A6C626" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 6"/>
+<path d="M171.624 6.19496L189.888 18.0809L184.727 23.6067L171.624 6.19496Z" fill="#C6C6C6"/>
+<path d="M170.441 5.16703L195.288 13.0904L193.437 25.353L170.441 5.16703Z" fill="#E4E4E4"/>
+<path d="M170.751 5.17676L195.527 13.3202L198 12L170.751 5.17676Z" fill="#C6C6C6"/>
+<defs>
+<filter id="filter0_d_214_118" x="33" y="69.3228" width="192" height="172" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_214_118"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_214_118" result="shape"/>
+</filter>
+<pattern id="pattern0_214_118" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_214_118" transform="scale(0.000976562)"/>
+</pattern>
+<image id="image0_214_118" width="1024" height="1024" xlink:href="./public/images/logo/Techysquad-Logo-01.png"/>
+</defs>
+</svg>
