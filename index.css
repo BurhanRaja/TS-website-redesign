@@ -25,7 +25,6 @@ body {
   background: #555;
 }
 
-
 /* Hamburger Menu With Animation - Start */
 .ham_nav_btn {
   border: none;
@@ -92,26 +91,27 @@ body {
 }
 
 .hamburger_navigation .hamburger_nav_item {
-    transition: all;
-    transition-duration: 0.3s;
-    opacity: 0;
-    margin-left: -60px;
+  transition: all;
+  transition-duration: 0.3s;
+  opacity: 0;
+  margin-left: -60px;
 }
 .hamburger_navigation .hamburger_nav_item_2 {
   transition-delay: 0.05s;
-} 
+}
 .hamburger_navigation .hamburger_nav_item_3 {
   transition-delay: 0.1s;
-} 
+}
 .hamburger_navigation .hamburger_nav_item_4 {
   transition-delay: 0.15s;
-} 
+}
 .hamburger_navigation .hamburger_nav_item_5 {
-  transition-delay: 0.20s;
+  transition-delay: 0.2s;
 }
 
-
-.hamburger_nav_about, .hamburger_nav_services, .hamburger_nav_solutions {
+.hamburger_nav_about,
+.hamburger_nav_services,
+.hamburger_nav_solutions {
   width: 100vw;
   height: 100vh;
   background-color: white;
@@ -124,21 +124,260 @@ body {
 }
 /* Hamburger Menu With Animation - End */
 
-
-/* Hero Section - Start */
-
+/* ------------- Hero Section - Start ------------ */
 .hero_title_text_one {
   transition: all;
   transition-duration: 0.8s;
   margin-left: -70px;
   opacity: 0;
 }
-
 .hero_title_text_two {
   transition: all;
   transition-duration: 0.8s;
   margin-right: -50px;
   opacity: 0;
 }
+#hero_description_text:after {
+  content: "";
+  animation: blink 0.7s infinite;
+  color: black;
+}
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
 
-/* Hero Section - End */
+/* Know More - Start */
+#arrow_know_more_one_path_one {
+  stroke: #ea550f;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: -1000;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 0.5s;
+}
+#arrow_know_more_one_line {
+  stroke-dasharray: 300;
+  stroke-dashoffset: -300;
+  opacity: 0;
+  animation: drawLine 2s ease forwards 1s;
+  transition: all;
+  transition-duration: 0.5s;
+  stroke: #fff;
+}
+#arrow_know_more_one_path_two {
+  opacity: 0;
+  /* transform: translateX(20px); */
+  animation: fadeInArrowHead 1s ease forwards 2s;
+  transition: all;
+  transition-duration: 0.5s;
+  fill: #fff;
+}
+#arrow_know_more_one_circle {
+  fill: #ea550f;
+  transition: all;
+  transition-duration: 0.3s;
+}
+@keyframes drawLine {
+  to {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+}
+@keyframes fadeInArrowHead {
+  to {
+    opacity: 1;
+    /* transform: translateX(0px); */
+  }
+}
+.know_more_one_text {
+  transition: all;
+  transition-duration: 0.5s;
+  /* transition-delay: 1s; */
+  margin-right: -20px;
+  opacity: 0;
+}
+.know_more_one_btn:hover #arrow_know_more_one_line {
+  transform: translateX(230px);
+  stroke: #1c1c1c;
+}
+.know_more_one_btn:hover #arrow_know_more_one_path_two {
+  transform: translateX(230px);
+  fill: #1c1c1c;
+}
+.know_more_one_btn:hover #arrow_know_more_one_path_one {
+  stroke: #a6c626;
+}
+.know_more_one_btn:hover #arrow_know_more_one_circle {
+  fill: #a6c626;
+}
+.know_more_one_btn:hover .know_more_one_text {
+  transform: translateX(12px);
+}
+/* Know More - End */
+
+/* First Illustration (Social Media) - Start */
+.social_media_svg_hero_rect_one {
+  transition: all;
+  transition-duration: 2s;
+  transform: translateX(-70px);
+  opacity: 0;
+}
+#social_media_svg_hero_rect_one_line_one {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 1.5s;
+}
+#social_media_svg_hero_rect_one_line_two {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 2s;
+}
+#social_media_svg_hero_graph_line_one {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 2s;
+}
+#social_media_svg_hero_graph_line_two {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 3.1s;
+}
+#social_media_svg_hero_graph_line_three {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 4s;
+}
+#social_media_svg_hero_graph_line_four {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 5.2s;
+}
+#social_media_svg_hero_graph_line_five {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 6.4s;
+}
+#social_media_svg_hero_graph_line_six {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 7s;
+}
+#social_media_svg_hero_graph_line_seven {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 7s;
+}
+#social_media_svg_hero_rect_two_text {
+  transition: all;
+  transition-duration: 2s;
+  transition-delay: 6s;
+  transform: translateX(-20px);
+  opacity: 0;
+}
+
+.social_media_svg_hero_rect_two {
+  transition: all;
+  transition-duration: 2s;
+  transition-delay: 1s;
+  transform: translateX(-70px);
+  opacity: 0;
+}
+#social_media_svg_hero_one_instagram {
+  transition: all;
+  transition-duration: 1s;
+  transition-delay: 2s;
+  opacity: 0;
+}
+#social_media_svg_hero_one_linkedin {
+  transition: all;
+  transition-duration: 1s;
+  transition-delay: 2.2s;
+  opacity: 0;
+}
+#social_media_svg_hero_one_youtube {
+  transition: all;
+  transition-duration: 1s;
+  transition-delay: 2.4s;
+  opacity: 0;
+}
+#social_media_svg_hero_instagram_gray {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 3s;
+}
+#social_media_svg_hero_instagram_green {
+  stroke-dasharray: 49;
+  stroke-dashoffset: -49;
+  animation: drawPath 1.5s ease-in-out forwards;
+  animation-delay: 4s;
+}
+#social_media_svg_hero_linkedin_gray {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 3.5s;
+}
+#social_media_svg_hero_linkedin_green {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease-in-out forwards;
+  animation-delay: 4.5s;
+}
+#social_media_svg_hero_youtube_gray {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 4s;
+}
+#social_media_svg_hero_youtube_green {
+  stroke-dasharray: 64;
+  stroke-dashoffset: -64;
+  animation: drawPath 1.5s ease-in-out forwards;
+  animation-delay: 5s;
+}
+#social_media_svg_hero_instagram_text {
+  transition: all;
+  transition-duration: 2s;
+  transition-delay: 4s;
+  transform: translateX(-15px);
+  opacity: 0;
+}
+#social_media_svg_hero_linkedin_text {
+  transition: all;
+  transition-duration: 2s;
+  transition-delay: 4.5s;
+  transform: translateX(-15px);
+  opacity: 0;
+}
+#social_media_svg_hero_youtube_text {
+  transition: all;
+  transition-duration: 2s;
+  transition-delay: 5s;
+  transform: translateX(-15px);
+  opacity: 0;
+}
+
+@keyframes drawPath {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* First Illustration (Social Media) - End */
+
+/* -------------- Hero Section - End -------------- */

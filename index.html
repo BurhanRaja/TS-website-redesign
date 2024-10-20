@@ -51,10 +51,12 @@
     <!-- NavBar -->
     <header class="text-gray-600 body-font w-[92%] 2xl:w-[1350px] mx-auto">
       <div
-        class="container flex mx-auto flex-wrap p-5 flex-col md:flex-row lg:justify-between justify-start items-center"
+        class="lg:container flex lg:mx-auto flex-wrap p-5 flex-col md:flex-row lg:justify-between justify-start items-center"
       >
         <nav class="w-[100%]">
-          <ul class="grid lg:grid-cols-3 grid-cols-2 items-center w-[100%]">
+          <ul
+            class="grid fixed lg:relative z-50 lg:grid-cols-3 grid-cols-2 items-center h-[100px] md:h-[120px] lg:h-[100px] top-0 left-0 px-10 lg:px-0 bg-gray-100 w-full shadow-lg lg:shadow-none"
+          >
             <!-- Nav - First Part  -->
             <li class="hidden lg:block">
               <ul class="flex items-center justify-between p-2">
@@ -70,9 +72,12 @@
             <!-- Nav - First Part  -->
 
             <!-- Nav - Logo  -->
-            <li class="">
+            <li class="relative z-50">
               <a href="#" class="flex justify-start lg:justify-center">
-                <img src="./public/logo/Techysquad-Logo-01.png" class="w-16" />
+                <img
+                  src="./public/logo/Techysquad-Logo-01.png"
+                  class="w-14 md:w-16"
+                />
               </a>
             </li>
             <!-- Nav - Logo  -->
@@ -97,7 +102,9 @@
             </li>
             <li class="flex justify-end lg:hidden">
               <button class="ham_nav_btn relative z-50">
-                <svg class="hamburger w-[30px] h-[30px] md:w-[40px] md:h-[45px]">
+                <svg
+                  class="hamburger w-[30px] h-[30px] md:w-[40px] md:h-[45px]"
+                >
                   <line
                     x1="0"
                     y1="50%"
@@ -122,19 +129,61 @@
                 </svg>
               </button>
               <div class="hamburger_main_menu">
-                <ul class="py-10 px-0 md:py-24 md:p-16 hamburger_navigation">
-                  <li class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_1">
-                    <a class="text-3xl md:text-5xl font-semibold">
-                      Home
+                <ul
+                  class="mt-20 py-10 px-0 md:py-24 md:p-16 hamburger_navigation"
+                >
+                  <li
+                    class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_1"
+                  >
+                    <a
+                      class="text-3xl md:text-5xl font-semibold flex items-center"
+                    >
+                      <button class="mr-3">
+                        <svg
+                          id="Layer_1"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 1024 1024"
+                          class="w-[50px] md:w-[70px]"
+                        >
+                          <circle
+                            class="cls-3"
+                            style="fill: #ea550f"
+                            cx="512"
+                            cy="503.88"
+                            r="299.99"
+                          />
+                          <line
+                            class="cls-2"
+                            style="
+                              fill: none;
+                              stroke: #fff;
+                              stroke-linecap: round;
+                              stroke-miterlimit: 10;
+                              stroke-width: 20px;
+                            "
+                            x1="584.16"
+                            y1="447"
+                            x2="401.32"
+                            y2="626.79"
+                          />
+                          <path
+                            class="cls-1"
+                            style="fill: #fff"
+                            d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                          />
+                        </svg>
+                      </button>
+                      <span> Home </span>
                     </a>
                   </li>
-                  <li class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_2">
-                    <a class="text-3xl md:text-5xl font-semibold flex items-center hamburger_nav_about_btn">
-                      <span class="mr-3">
-                        About
-                      </span>
+                  <li
+                    class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_2"
+                  >
+                    <a
+                      class="text-3xl md:text-5xl font-semibold flex items-center hamburger_nav_about_btn"
+                    >
                       <span>
-                        <button class="">
+                        <button class="mr-3">
                           <svg
                             id="Layer_1"
                             xmlns="http://www.w3.org/2000/svg"
@@ -170,28 +219,258 @@
                           </svg>
                         </button>
                       </span>
-                      <div class="hamburger_nav_about absolute">
-                        <ul class="py-10 px-5 md:py-24 md:p-16 hamburger_navigation">
-                          <li class="mb-8 md:mb-14">
+                      <span> About </span>
+                      <div class="hamburger_nav_about absolute mt-16">
+                        <ul
+                          class="py-10 px-5 md:py-24 md:p-16 hamburger_navigation"
+                        >
+                          <li class="mb-6 md:mb-14">
                             <button class="p-3 hamburger_nav_about_btn_back">
-                              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="w-[30px] md:w-[45px]" xmlns="http://www.w3.org/2000/svg"><path d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"></path></svg>
+                              <svg
+                                stroke="currentColor"
+                                fill="currentColor"
+                                stroke-width="0"
+                                viewBox="0 0 448 512"
+                                class="w-[25px] md:w-[35px]"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+                                ></path>
+                              </svg>
                             </button>
                           </li>
-                          <li class="mb-10 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Our Story</a></li>
-                          <li class="mb-10 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">How we do it?</a></li>
-                          <li class="mb-10 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Our Partners</a></li>
-                          <li class="mb-10 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Our Achievements</a></li>
-                          <li class="mb-10 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Featured On</a></li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Our Story</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>How we do it?</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Our Partners</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Our Achievements</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Featured On</span></a
+                            >
+                          </li>
                         </ul>
                       </div>
                     </a>
                   </li>
-                  <li class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_3">
-                    <a class="text-3xl md:text-5xl font-semibold flex items-center hamburger_nav_services_btn">
+                  <li
+                    class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_3"
+                  >
+                    <a
+                      class="text-3xl md:text-5xl font-semibold flex items-center hamburger_nav_services_btn"
+                    >
                       <span class="mr-3">
-                        Our Services
-                      </span>
-                      <span>
                         <button class="">
                           <svg
                             id="Layer_1"
@@ -228,28 +507,258 @@
                           </svg>
                         </button>
                       </span>
-                      <div class="hamburger_nav_services absolute">
-                        <ul class="py-10 px-5 md:py-24 md:p-16 hamburger_navigation">
-                          <li class="mb-8 md:mb-14">
+                      <span> Our Services </span>
+                      <div class="hamburger_nav_services absolute mt-16">
+                        <ul
+                          class="py-10 px-5 md:py-24 md:p-16 hamburger_navigation"
+                        >
+                          <li class="mb-6 md:mb-14">
                             <button class="p-3 hamburger_nav_services_btn_back">
-                              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="w-[30px] md:w-[45px]" xmlns="http://www.w3.org/2000/svg"><path d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"></path></svg>
+                              <svg
+                                stroke="currentColor"
+                                fill="currentColor"
+                                stroke-width="0"
+                                viewBox="0 0 448 512"
+                                class="w-[25px] md:w-[35px]"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+                                ></path>
+                              </svg>
                             </button>
                           </li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Web Development Agency</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Web Design</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Wordpress Development</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">SEO Services</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Social Media Marketing</a></li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Web Development Agency</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Web Design</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Wordpress Development</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>SEO Services</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Social Media Marketing</span></a
+                            >
+                          </li>
                         </ul>
                       </div>
                     </a>
                   </li>
-                  <li class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_4">
-                    <a class="text-3xl md:text-5xl font-semibold flex items-center hamburger_nav_solutions_btn">
+                  <li
+                    class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_4"
+                  >
+                    <a
+                      class="text-3xl md:text-5xl font-semibold flex items-center hamburger_nav_solutions_btn"
+                    >
                       <span class="mr-3">
-                        Forex Solutions
-                      </span>
-                      <span>
                         <button class="">
                           <svg
                             id="Layer_1"
@@ -286,30 +795,347 @@
                           </svg>
                         </button>
                       </span>
-                      <div class="hamburger_nav_solutions absolute">
-                        <ul class="py-10 px-5 md:py-24 md:p-16 hamburger_navigation">
-                          <li class="mb-8 md:mb-14">
-                            <button class="p-3 hamburger_nav_solutions_btn_back">
-                              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="w-[30px] md:w-[45px]" xmlns="http://www.w3.org/2000/svg"><path d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"></path></svg>
+                      <span> Forex Solutions </span>
+                      <div
+                        class="hamburger_nav_solutions absolute overflow-scroll mt-16"
+                      >
+                        <ul
+                          class="py-10 px-5 md:py-24 md:p-16 hamburger_navigation"
+                        >
+                          <li class="mb-6 md:mb-10">
+                            <button
+                              class="p-3 hamburger_nav_solutions_btn_back"
+                            >
+                              <svg
+                                stroke="currentColor"
+                                fill="currentColor"
+                                stroke-width="0"
+                                viewBox="0 0 448 512"
+                                class="w-[25px] md:w-[35px]"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+                                ></path>
+                              </svg>
                             </button>
                           </li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Forex Web Design</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Forex Traders Room</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Forex Multi Level IB</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Forex CRM Solution</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Prop Trading</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Hosting Solutions</a></li>
-                          <li class="mb-8 md:mb-16"><a class="text-2xl md:text-5xl font-semibold">Regulations</a></li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Forex Web Design </span>
+                            </a>
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Forex Traders Room</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg></button
+                              ></span>
+                              <span>Forex Multi Level IB</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg></button
+                              ></span>
+                              <span>Forex CRM Solution</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg></button
+                              ></span>
+                              <span>Prop Trading</span></a
+                            >
+                          </li>
+                          <li class="mb-6 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <button class="mr-3">
+                                  <svg
+                                    id="Layer_1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 1024 1024"
+                                    class="w-[50px] md:w-[70px]"
+                                  >
+                                    <circle
+                                      class="cls-3"
+                                      style="fill: #a6c626"
+                                      cx="512"
+                                      cy="503.88"
+                                      r="299.99"
+                                    />
+                                    <line
+                                      class="cls-2"
+                                      style="
+                                        fill: none;
+                                        stroke: #fff;
+                                        stroke-linecap: round;
+                                        stroke-miterlimit: 10;
+                                        stroke-width: 20px;
+                                      "
+                                      x1="584.16"
+                                      y1="447"
+                                      x2="401.32"
+                                      y2="626.79"
+                                    />
+                                    <path
+                                      class="cls-1"
+                                      style="fill: #fff"
+                                      d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                    />
+                                  </svg>
+                                </button>
+                              </span>
+                              <span>Hosting Solutions</span></a
+                            >
+                          </li>
+                          <li class="mb-8 md:mb-10">
+                            <a
+                              class="text-2xl md:text-4xl flex items-center font-semibold"
+                            >
+                              <span>
+                                <span>
+                                  <button class="mr-3">
+                                    <svg
+                                      id="Layer_1"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                      viewBox="0 0 1024 1024"
+                                      class="w-[50px] md:w-[70px]"
+                                    >
+                                      <circle
+                                        class="cls-3"
+                                        style="fill: #a6c626"
+                                        cx="512"
+                                        cy="503.88"
+                                        r="299.99"
+                                      />
+                                      <line
+                                        class="cls-2"
+                                        style="
+                                          fill: none;
+                                          stroke: #fff;
+                                          stroke-linecap: round;
+                                          stroke-miterlimit: 10;
+                                          stroke-width: 20px;
+                                        "
+                                        x1="584.16"
+                                        y1="447"
+                                        x2="401.32"
+                                        y2="626.79"
+                                      />
+                                      <path
+                                        class="cls-1"
+                                        style="fill: #fff"
+                                        d="M642.63,380.83c-28.32,19.16-61.18,27.66-100.95,19.94-5.75,1.14-7.91,8.22-3.78,12.38l80.62,80.93c4.14,4.15,11.23,2.02,12.39-3.73-7.62-35.87.71-70.44,20.33-100.87,1.03-5.13-3.48-9.66-8.62-8.65Z"
+                                      />
+                                    </svg>
+                                  </button> </span></span
+                              >Regulations</a
+                            >
+                          </li>
                         </ul>
                       </div>
                     </a>
                   </li>
-                  <li class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_5">
-                    <a class="text-3xl md:text-5xl font-semibold flex items-center">
+                  <li
+                    class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_5"
+                  >
+                    <a
+                      class="text-3xl md:text-5xl font-semibold flex items-center"
+                    >
                       <span class="mr-3">
-                        Blog
-                      </span>
-                      <span>
                         <button class="">
                           <svg
                             id="Layer_1"
@@ -346,6 +1172,7 @@
                           </svg>
                         </button>
                       </span>
+                      <span> Blog </span>
                     </a>
                   </li>
                 </ul>
@@ -359,7 +1186,7 @@
     <!-- NavBar -->
 
     <main
-      class="body-font 2xl:w-[1350px] lg:w-[90%] w-[92%] mx-auto lg:py-16 py-10 relative z-20"
+      class="body-font pt-32 md:pt-40 2xl:w-[1350px] lg:w-[90%] w-[92%] mx-auto lg:py-16 py-10 relative z-20"
     >
       <!-- Hero Section - Start -->
       <section>
@@ -379,40 +1206,35 @@
             Tailored to You
           </h1>
           <p
-            class="lg:w-[60%] lg:mr-20 w-[90%] sm:mt-10 lg:text-start text-center xl:text-lg md:text-base xs:text-sm xs:mt-5"
-          >
-            We are a web design agency helping businesses of all size get a
-            better return from online activities. We design and build stunning
-            bespoke websites. And we can help with a wide range of online
-            marketing strategies. We have a complete Forex CRM Solution under
-            one roof with Techysquad - The best Forex CRM Agency.
-          </p>
+            id="hero_description_text"
+            class="lg:w-[60%] lg:mr-20 w-[90%] h-[140px] lg:h-[100px] sm:mt-10 lg:text-start text-center xl:text-lg md:text-base xs:text-sm xs:mt-5"
+          ></p>
         </div>
         <div class="md:flex md:items-start md:justify-evenly">
           <div
             class="xl:right-32 lg:absolute lg:top-16 lg:right-10 lg:w-[175px] md:w-[40%] flex justify-center"
           >
             <button
-              class="inline-flex items-center relative lg:w-full w-[180px] text-lg mr-8"
+              class="inline-flex items-center relative lg:w-full w-[180px] text-lg mr-8 know_more_one_btn"
             >
               <!-- Arrow with Circle -->
               <svg
-                id="Layer_1"
+                id="arrow_know_more_one"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1024 1024"
                 class="lg:w-[100px] sm:w-[110px] xs:w-[90px]"
               >
                 <circle
+                  id="arrow_know_more_one_circle"
                   class="cls-4"
-                  style="fill: #ea550f"
+                  style=""
                   cx="512"
                   cy="504.42"
                   r="253.7"
                 />
                 <path
-                  class="cls-3"
+                  id="arrow_know_more_one_path_one"
                   style="
-                    stroke: #ea550f;
                     stroke-width: 24px;
                     fill: none;
                     stroke-linecap: round;
@@ -421,12 +1243,12 @@
                   d="M778.95,721.4c-63.06,73.88-156.86,120.72-261.6,120.72-189.87,0-343.79-153.92-343.79-343.79s153.92-343.79,343.79-343.79c103.41,0,196.16,45.66,259.18,117.91"
                 />
                 <line
+                  id="arrow_know_more_one_line"
                   class="cls-2"
                   style="
                     fill: none;
                     stroke-linecap: round;
                     stroke-miterlimit: 10;
-                    stroke: #fff;
                     stroke-width: 20px;
                   "
                   x1="589.18"
@@ -435,14 +1257,15 @@
                   y2="512"
                 />
                 <path
+                  id="arrow_know_more_one_path_two"
                   class="cls-1"
-                  style="fill: #fff"
+                  style=""
                   d="M663.72,508.65c-28.4-5.42-53.16-19.94-72.39-48.3-4.12-2.75-9.65.2-9.65,5.16v96.61c0,4.96,5.53,7.91,9.65,5.16,16.84-26.04,42.47-41.78,72.39-48.3,3.68-2.46,3.68-7.87,0-10.32Z"
                 />
               </svg>
               <!-- Arrow with Circle -->
               <span
-                class="absolute lg:-right-9 sm:-right-3 xs:right-0 font-medium"
+                class="absolute lg:-right-9 sm:-right-3 xs:right-0 font-medium know_more_one_text"
               >
                 Know More
               </span>
@@ -457,15 +1280,21 @@
           >
             <!-- Social Media Hero -->
             <svg
-              id="Layer_1"
               xmlns="http://www.w3.org/2000/svg"
               xmlns:xlink="http://www.w3.org/1999/xlink"
               viewBox="0 0 278 248"
+              id="social_media_svg_hero"
               class="xl:w-[300px] lg:w-[230px] md:w-[330px]"
             >
-              <rect width="167" height="163" rx="34" ry="34" />
               <rect
-                class="cls-6"
+                class="social_media_svg_hero_rect_one"
+                width="167"
+                height="163"
+                rx="34"
+                ry="34"
+              />
+              <rect
+                class="social_media_svg_hero_rect_two"
                 style="fill: #fff"
                 x="111"
                 y="85"
@@ -475,6 +1304,7 @@
                 ry="34"
               />
               <path
+                id="social_media_svg_hero_instagram_gray"
                 class="cls-1"
                 style="
                   stroke: #d9d9d9;
@@ -484,6 +1314,7 @@
                 d="M167,128h84"
               />
               <path
+                id="social_media_svg_hero_instagram_green"
                 class="cls-2"
                 style="
                   stroke-width: 4px;
@@ -494,6 +1325,7 @@
                 d="M167,128h49"
               />
               <path
+                id="social_media_svg_hero_linkedin_gray"
                 class="cls-1"
                 style="
                   stroke: #d9d9d9;
@@ -503,6 +1335,7 @@
                 d="M167,168h84"
               />
               <path
+                id="social_media_svg_hero_linkedin_green"
                 class="cls-2"
                 style="
                   stroke-width: 4px;
@@ -513,6 +1346,7 @@
                 d="M167,168h67"
               />
               <path
+                id="social_media_svg_hero_youtube_gray"
                 class="cls-1"
                 style="
                   stroke: #d9d9d9;
@@ -522,6 +1356,7 @@
                 d="M167,208h84"
               />
               <path
+                id="social_media_svg_hero_youtube_green"
                 class="cls-2"
                 style="
                   stroke-width: 4px;
@@ -532,19 +1367,23 @@
                 d="M167,208h54"
               />
               <path
+                id="social_media_svg_hero_instagram_text"
                 class="cls-5"
                 style="fill: #4d4d4d"
                 d="M227.81,121v-1.02h1.28v-3.58h.58l-1.73,1.01v-1.17l1.5-.88h.89v4.62h1.2v1.02h-3.73ZM232.6,121v-1.02h1.28v-3.58h.58l-1.73,1.01v-1.17l1.5-.88h.89v4.62h1.2v1.02h-3.73ZM238.99,121.09c-.68,0-1.2-.25-1.57-.76-.36-.51-.54-1.23-.54-2.16s.18-1.66.54-2.15c.37-.5.89-.74,1.57-.74s1.21.25,1.57.74c.36.49.54,1.21.54,2.14s-.18,1.66-.54,2.17c-.36.51-.89.76-1.57.76ZM238.99,120.08c.31,0,.54-.15.69-.46.15-.31.23-.8.23-1.46s-.08-1.15-.23-1.44c-.15-.29-.38-.44-.69-.44s-.54.15-.7.44c-.15.29-.22.77-.22,1.43s.08,1.16.23,1.47c.15.3.38.46.69.46ZM246.34,121h-1.02l3.31-5.64h1.02l-3.31,5.64ZM245.41,118.72c-.46,0-.83-.15-1.09-.46-.26-.31-.39-.74-.39-1.26s.13-.95.39-1.26c.27-.31.63-.46,1.09-.46s.83.16,1.09.47c.26.31.39.72.39,1.25s-.13.95-.39,1.26c-.26.31-.62.46-1.09.46ZM245.41,117.98c.16,0,.28-.08.37-.23.09-.16.14-.41.14-.75s-.04-.6-.14-.74c-.09-.14-.21-.22-.37-.22s-.29.07-.38.22c-.08.14-.13.39-.13.74s.04.61.13.76c.09.15.21.22.38.22ZM249.55,121.09c-.46,0-.83-.16-1.09-.47-.26-.31-.39-.74-.39-1.26s.13-.95.39-1.26c.27-.3.63-.46,1.09-.46s.83.15,1.09.46c.26.31.39.73.39,1.25s-.13.95-.39,1.26c-.26.32-.62.47-1.09.47ZM249.55,120.33c.17,0,.29-.08.38-.22.09-.15.14-.4.14-.75s-.04-.6-.14-.74c-.08-.15-.21-.22-.38-.22s-.29.07-.38.22c-.08.14-.13.4-.13.75s.04.61.13.76c.09.14.22.22.38.22Z"
               />
               <path
+                id="social_media_svg_hero_linkedin_text"
                 class="cls-5"
                 d="M227.81,161v-1.02h1.28v-3.58h.58l-1.73,1.01v-1.17l1.5-.88h.89v4.62h1.2v1.02h-3.73ZM234.08,161.09c-.39,0-.78-.06-1.14-.17-.36-.11-.66-.27-.88-.46l.39-.93c.24.18.49.31.76.4.27.09.54.13.82.13.33,0,.58-.06.74-.18.17-.12.25-.3.25-.54,0-.22-.08-.39-.24-.5-.15-.12-.39-.18-.7-.18h-.94v-.98h.83c.27,0,.48-.06.64-.18.16-.13.24-.3.24-.52s-.07-.38-.22-.49-.36-.17-.65-.17c-.54,0-1.02.18-1.44.54l-.4-.91c.24-.21.53-.37.87-.48.35-.12.71-.18,1.09-.18.61,0,1.08.14,1.42.41.35.27.52.64.52,1.12,0,.33-.09.62-.28.86-.19.24-.44.39-.77.47v-.1c.38.06.68.22.9.47.21.25.32.57.32.94,0,.51-.19.91-.58,1.21-.38.29-.9.44-1.56.44ZM238.99,161.09c-.68,0-1.2-.25-1.57-.76-.36-.51-.54-1.23-.54-2.16s.18-1.66.54-2.15c.37-.5.89-.74,1.57-.74s1.21.25,1.57.74c.36.49.54,1.2.54,2.14s-.18,1.66-.54,2.17c-.36.51-.89.76-1.57.76ZM238.99,160.08c.31,0,.54-.15.69-.46.15-.31.23-.8.23-1.46s-.08-1.15-.23-1.44c-.15-.29-.38-.44-.69-.44s-.54.15-.7.44c-.15.29-.22.77-.22,1.43s.08,1.16.23,1.47c.15.3.38.46.69.46ZM246.34,161h-1.02l3.31-5.64h1.02l-3.31,5.64ZM245.41,158.72c-.46,0-.83-.15-1.09-.46-.26-.32-.39-.74-.39-1.26s.13-.95.39-1.26c.27-.31.63-.46,1.09-.46s.83.16,1.09.47c.26.31.39.72.39,1.25s-.13.95-.39,1.26c-.26.31-.62.46-1.09.46ZM245.41,157.98c.16,0,.28-.08.37-.23.09-.15.14-.4.14-.75s-.04-.6-.14-.74c-.09-.14-.21-.22-.37-.22s-.29.07-.38.22c-.08.14-.13.39-.13.74s.04.61.13.76c.09.15.21.22.38.22ZM249.55,161.09c-.46,0-.83-.16-1.09-.47-.26-.32-.39-.74-.39-1.26s.13-.95.39-1.26c.27-.3.63-.46,1.09-.46s.83.15,1.09.46c.26.31.39.72.39,1.25s-.13.95-.39,1.26c-.26.32-.62.47-1.09.47ZM249.55,160.33c.17,0,.29-.07.38-.22.09-.15.14-.4.14-.75s-.04-.6-.14-.74c-.08-.15-.21-.22-.38-.22s-.29.07-.38.22c-.08.14-.13.39-.13.75s.04.61.13.76c.09.14.22.22.38.22Z"
               />
               <path
+                id="social_media_svg_hero_youtube_text"
                 class="cls-5"
                 d="M227.81,202v-1.02h1.28v-3.58h.58l-1.73,1.01v-1.17l1.5-.88h.89v4.62h1.2v1.02h-3.73ZM232.6,202v-1.02h1.28v-3.58h.58l-1.73,1.01v-1.17l1.5-.88h.89v4.62h1.2v1.02h-3.73ZM238.99,202.09c-.25,0-.5-.03-.74-.08-.25-.05-.48-.12-.69-.22-.21-.1-.39-.21-.54-.34l.39-.93c.24.17.49.3.75.39.26.09.53.14.8.14.31,0,.55-.07.72-.22.18-.15.26-.35.26-.61s-.08-.46-.25-.62c-.17-.15-.39-.23-.68-.23-.2,0-.39.04-.57.11-.17.07-.33.19-.46.34h-.8v-3.48h3.6v1.02h-2.42v1.53h-.29c.13-.17.31-.29.53-.38.22-.09.46-.14.74-.14.36,0,.68.08.94.23.27.15.48.36.63.63.15.27.22.58.22.94s-.09.7-.26.99c-.17.28-.42.5-.74.66-.32.16-.7.24-1.14.24ZM246.34,202h-1.02l3.31-5.64h1.02l-3.31,5.64ZM245.41,199.72c-.46,0-.83-.15-1.09-.46-.26-.32-.39-.74-.39-1.26s.13-.95.39-1.26c.27-.31.63-.46,1.09-.46s.83.16,1.09.47c.26.31.39.72.39,1.25s-.13.95-.39,1.26c-.26.31-.62.46-1.09.46ZM245.41,198.98c.16,0,.28-.08.37-.23.09-.15.14-.4.14-.75s-.04-.6-.14-.74c-.09-.14-.21-.22-.37-.22s-.29.07-.38.22c-.08.14-.13.39-.13.74s.04.61.13.76c.09.15.21.22.38.22ZM249.55,202.09c-.46,0-.83-.16-1.09-.47-.26-.32-.39-.74-.39-1.26s.13-.95.39-1.26c.27-.3.63-.46,1.09-.46s.83.15,1.09.46c.26.31.39.72.39,1.25s-.13.95-.39,1.26c-.26.32-.62.47-1.09.47ZM249.55,201.33c.17,0,.29-.07.38-.22.09-.15.14-.4.14-.75s-.04-.6-.14-.74c-.08-.15-.21-.22-.38-.22s-.29.07-.38.22c-.08.14-.13.39-.13.75s.04.61.13.76c.09.14.22.22.38.22Z"
               />
               <path
+                id="social_media_svg_hero_graph_line_one"
                 class="cls-4"
                 style="
                   fill: none;
@@ -555,6 +1394,7 @@
                 d="M25,110l28-28"
               />
               <path
+                id="social_media_svg_hero_graph_line_two"
                 class="cls-4"
                 style="
                   fill: none;
@@ -565,6 +1405,7 @@
                 d="M53,82l16,13"
               />
               <path
+                id="social_media_svg_hero_graph_line_four"
                 class="cls-4"
                 style="
                   fill: none;
@@ -575,6 +1416,7 @@
                 d="M97,62l17,13"
               />
               <path
+                id="social_media_svg_hero_graph_line_three"
                 class="cls-4"
                 style="
                   fill: none;
@@ -585,16 +1427,34 @@
                 d="M69,95l28-33"
               />
               <path
-                class="cls-8"
-                style="fill: #f5f5f5"
-                d="M112.9,73.98c-.57.61-.53,1.55.07,2.12.61.57,1.55.53,2.12-.07l-2.19-2.05ZM143.5,44.95c-.03-.83-.72-1.48-1.55-1.45l-13.49.47c-.83.03-1.48.72-1.45,1.55.03.83.72,1.48,1.55,1.45l11.99-.41.41,11.99c.03.83.72,1.48,1.55,1.45.83-.03,1.48-.72,1.45-1.55l-.47-13.49ZM115.1,76.02l28-30-2.19-2.05-28,30,2.19,2.05Z"
+                id="social_media_svg_hero_graph_line_five"
+                d="M114 75L142 45"
+                stroke="#F5F5F5"
+                stroke-width="3"
+                stroke-linecap="round"
               />
               <path
+                id="social_media_svg_hero_graph_line_six"
+                d="M140.781 69.3383L142.47 44.9207"
+                stroke="#F5F5F5"
+                stroke-width="3"
+                stroke-linecap="round"
+              />
+              <path
+                id="social_media_svg_hero_graph_line_seven"
+                d="M141.869 44.8623L117.393 44.7514"
+                stroke="#F5F5F5"
+                stroke-width="3"
+                stroke-linecap="round"
+              />
+              <path
+                id="social_media_svg_hero_rect_two_text"
                 class="cls-7"
                 style="fill: #ea550f"
                 d="M31.98,51.31c-1.38,0-2.72-.2-4-.59-1.27-.39-2.3-.93-3.08-1.62l1.37-3.25c.84.62,1.73,1.08,2.66,1.4.93.3,1.89.45,2.88.45,1.16,0,2.03-.21,2.6-.64.58-.43.87-1.06.87-1.9,0-.78-.28-1.37-.84-1.76-.54-.41-1.35-.62-2.44-.62h-3.3v-3.44h2.91c.93,0,1.68-.21,2.24-.64.56-.45.84-1.05.84-1.82s-.26-1.32-.78-1.71c-.52-.39-1.28-.59-2.27-.59-1.89,0-3.57.63-5.04,1.88l-1.4-3.19c.84-.73,1.86-1.29,3.05-1.68,1.21-.41,2.48-.62,3.81-.62,2.13,0,3.79.48,4.98,1.43,1.21.93,1.82,2.24,1.82,3.92,0,1.16-.33,2.16-.98,3-.65.82-1.55,1.37-2.69,1.65v-.36c1.34.22,2.39.77,3.14,1.65s1.12,1.98,1.12,3.3c0,1.79-.67,3.2-2.02,4.23-1.33,1.03-3.15,1.54-5.46,1.54ZM49.19,51.31c-2.37,0-4.2-.89-5.49-2.66-1.27-1.79-1.9-4.31-1.9-7.56s.63-5.81,1.9-7.53c1.29-1.74,3.12-2.6,5.49-2.6s4.22.87,5.49,2.6c1.27,1.72,1.9,4.22,1.9,7.5s-.63,5.8-1.9,7.59c-1.27,1.77-3.1,2.66-5.49,2.66ZM49.19,47.78c1.08,0,1.89-.53,2.41-1.6.54-1.08.81-2.79.81-5.12s-.27-4.01-.81-5.04c-.52-1.03-1.33-1.54-2.41-1.54s-1.89.51-2.44,1.54c-.52,1.03-.78,2.7-.78,5.01s.27,4.07.81,5.15c.54,1.06,1.34,1.6,2.41,1.6ZM65.98,51.31c-2.37,0-4.2-.89-5.49-2.66-1.27-1.79-1.9-4.31-1.9-7.56s.63-5.81,1.9-7.53c1.29-1.74,3.12-2.6,5.49-2.6s4.22.87,5.49,2.6c1.27,1.72,1.9,4.22,1.9,7.5s-.63,5.8-1.9,7.59c-1.27,1.77-3.1,2.66-5.49,2.66ZM65.98,47.78c1.08,0,1.89-.53,2.41-1.6.54-1.08.81-2.79.81-5.12s-.27-4.01-.81-5.04c-.52-1.03-1.33-1.54-2.41-1.54s-1.89.51-2.44,1.54c-.52,1.03-.78,2.7-.78,5.01s.27,4.07.81,5.15c.54,1.06,1.34,1.6,2.41,1.6ZM81.28,49.91v-5.49h-5.38v-2.91h5.38v-5.32h3v5.32h5.35v2.91h-5.35v5.49h-3Z"
               />
               <path
+                id="social_media_svg_hero_rect_one_line_one"
                 class="cls-3"
                 style="
                   stroke-width: 4px;
@@ -605,6 +1465,7 @@
                 d="M25,130h66"
               />
               <path
+                id="social_media_svg_hero_rect_one_line_two"
                 class="cls-3"
                 style="
                   stroke-width: 4px;
@@ -615,18 +1476,21 @@
                 d="M25,140h66"
               />
               <image
+                id="social_media_svg_hero_one_youtube"
                 width="1400"
                 height="1400"
                 transform="translate(118.01 186.86) scale(.03)"
                 xlink:href="./public/images/homepage/Youtube-logo.png"
               />
               <image
+                id="social_media_svg_hero_one_instagram"
                 width="1575"
                 height="1181"
                 transform="translate(124.96 116.88) scale(.02)"
                 xlink:href="./public/images/homepage/instagram-logo.png"
               />
               <image
+                id="social_media_svg_hero_one_linkedin"
                 width="2312"
                 height="2306"
                 transform="translate(130.31 156.64) scale(0.009)"
@@ -4143,7 +5007,4 @@
   </script>
   <script type="module" src="./js/animation.js"></script>
   <script type="module" src="./js/simple-transitions.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/MotionPathPlugin.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
 </html>
