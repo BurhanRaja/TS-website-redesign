@@ -49,55 +49,23 @@ window.onload = function () {
 
 // -------------------- Social Media Hero SVG - Start ------------------
 // Rectangle - 1
-const socialMediaSvgHeroRectOne = document.querySelector(
-  ".social_media_svg_hero_rect_one"
-);
-socialMediaSvgHeroRectOne.style.opacity = "1";
-socialMediaSvgHeroRectOne.style.transform = "translateX(0px)";
+// const socialMediaSvgHeroRectOne = document.querySelector(
+//   ".social_media_svg_hero_rect_one"
+// );
+// socialMediaSvgHeroRectOne.style.opacity = "1";
+// socialMediaSvgHeroRectOne.style.transform = "translateX(0px)";
 
-// Rectangle - 2
-const socialMediaSvgHeroRectTwo = document.querySelector(
-  ".social_media_svg_hero_rect_two"
-);
-socialMediaSvgHeroRectTwo.style.opacity = "1";
-socialMediaSvgHeroRectTwo.style.transform = "translateX(0px)";
-
-// Icons
-const socialMediaSvgHeroOneInstagram = document.querySelector(
-  "#social_media_svg_hero_one_instagram"
-);
-const socialMediaSvgHeroOneLinkedin = document.querySelector(
-  "#social_media_svg_hero_one_linkedin"
-);
-const socialMediaSvgHeroOneYoutube = document.querySelector(
-  "#social_media_svg_hero_one_youtube"
-);
-socialMediaSvgHeroOneInstagram.style.opacity = "1";
-socialMediaSvgHeroOneLinkedin.style.opacity = "1";
-socialMediaSvgHeroOneYoutube.style.opacity = "1";
-
-// Text
-const socialMediaSvgHeroInstagramText = document.querySelector(
-  "#social_media_svg_hero_instagram_text"
-);
-const socialMediaSvgHeroLinkedinText = document.querySelector(
-  "#social_media_svg_hero_linkedin_text"
-);
-const socialMediaSvgHeroYoutubeText = document.querySelector(
-  "#social_media_svg_hero_youtube_text"
-);
-socialMediaSvgHeroInstagramText.style.opacity = "1";
-socialMediaSvgHeroInstagramText.style.transform = "translateX(0px)";
-socialMediaSvgHeroLinkedinText.style.opacity = "1";
-socialMediaSvgHeroLinkedinText.style.transform = "translateX(0px)";
-socialMediaSvgHeroYoutubeText.style.opacity = "1";
-socialMediaSvgHeroYoutubeText.style.transform = "translateX(0px)";
-
-// Text Two
-const socilaMediaSvgHeroRectTwoText = document.querySelector(
-  "#social_media_svg_hero_rect_two_text"
-);
-socilaMediaSvgHeroRectTwoText.style.opacity = "1";
-socilaMediaSvgHeroRectTwoText.style.transform = "translateX(0px)";
+// // Rectangle - 2
+// const socialMediaSvgHeroRectTwo = document.querySelector(
+//   ".social_media_svg_hero_rect_two"
+// );
+// socialMediaSvgHeroRectTwo.style.opacity = "1";
+// socialMediaSvgHeroRectTwo.style.transform = "translateX(0px)";
 
 // -------------------- Social Media Hero SVG - End ------------------
+
+// -------------------- Web Design Hero SVG - Start ------------------
+// const webDesignSvgHero = document.querySelector("#web_design_svg_hero");
+// webDesignSvgHero.style.opacity = "1";
+// webDesignSvgHero.style.transform = "translateX(0px)";
+// -------------------- Web Design Hero SVG - End ------------------

@@ -1,3 +1,40 @@
+const observerKnowMoreOne = new IntersectionObserver((enteries) => {
+  enteries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      document
+        .querySelector("#arrow_know_more_one")
+        .classList.add("arrow_know_more_one_animate");
+    }
+  });
+});
+observerKnowMoreOne.observe(document.querySelector("#arrow_know_more_one"));
+
+const observerSocialMediaHeroSvg = new IntersectionObserver((enteries) => {
+  enteries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      document
+        .querySelector("#social_media_svg_hero")
+        .classList.add("social_media_svg_hero_animate");
+    }
+  });
+});
+observerSocialMediaHeroSvg.observe(
+  document.querySelector("#social_media_svg_hero")
+);
+
+const observerWebDesignSvgHero = new IntersectionObserver((enteries) => {
+  enteries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      document
+        .querySelector("#web_design_svg_hero")
+        .classList.add("web_design_svg_hero_animate");
+    }
+  });
+});
+observerWebDesignSvgHero.observe(
+  document.querySelector("#web_design_svg_hero")
+);
+
 // -----------------------------------  Hamburger Navigation - Start -----------------------------------------------
 const hamburger = document.querySelector(".ham_nav_btn");
 const hamburgerBarBot = document.querySelector(".hamburger__bar_bot");
@@ -177,6 +214,7 @@ arrowKnowMoreOneText.style.marginRight = "0px";
 // --------------------------------- Know More Icon Animation - End -------------------------------------------
 
 // --------------------------------- Social Media Hero SVG Animation - Start ----------------------------------
+
 // Rect One - Line One
 const socialMediaSvgHeroLineOne = document.querySelector(
   "#social_media_svg_hero_rect_one_line_one"
@@ -337,3 +375,15 @@ socialMediaSvgHeroYoutubeGreen.style.strokeDasharray =
 socialMediaSvgHeroYoutubeGreen.style.strokeDashoffset =
   socialMediaSvgHeroYoutubeGreenLength;
 // --------------------------------- Social Media Hero SVG Animation - End ----------------------------------
+
+// --------------------------------- Web Design Hero SVG Animation - Start ----------------------------------
+const webDesignHeroRectFrontOneHead = document.querySelector(
+  "#web_design_hero_rect_front_one_head"
+);
+const webDesignHeroRectFrontOneHeadLength =
+  webDesignHeroRectFrontOneHead.getTotalLength();
+webDesignHeroRectFrontOneHead.style.strokeDasharray =
+  webDesignHeroRectFrontOneHeadLength;
+webDesignHeroRectFrontOneHead.style.strokeDashoffset =
+  webDesignHeroRectFrontOneHeadLength;
+// --------------------------------- Web Design Hero SVG Animation - End ----------------------------------
