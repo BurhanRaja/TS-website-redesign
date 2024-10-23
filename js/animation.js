@@ -377,13 +377,43 @@ socialMediaSvgHeroYoutubeGreen.style.strokeDashoffset =
 // --------------------------------- Social Media Hero SVG Animation - End ----------------------------------
 
 // --------------------------------- Web Design Hero SVG Animation - Start ----------------------------------
-const webDesignHeroRectFrontOneHead = document.querySelector(
-  "#web_design_hero_rect_front_one_head"
+const webDesignHeroRectFrontOneHeadBodyRect = document.querySelector(
+  "#web_design_hero_rect_front_one_body_rect"
 );
-const webDesignHeroRectFrontOneHeadLength =
-  webDesignHeroRectFrontOneHead.getTotalLength();
-webDesignHeroRectFrontOneHead.style.strokeDasharray =
-  webDesignHeroRectFrontOneHeadLength;
-webDesignHeroRectFrontOneHead.style.strokeDashoffset =
-  webDesignHeroRectFrontOneHeadLength;
+const webDesignHeroRectFrontOneHeadBodyRectLength =
+  webDesignHeroRectFrontOneHeadBodyRect.getTotalLength();
+webDesignHeroRectFrontOneHeadBodyRect.style.strokeDasharray =
+  webDesignHeroRectFrontOneHeadBodyRectLength;
+webDesignHeroRectFrontOneHeadBodyRect.style.strokeDashoffset =
+  webDesignHeroRectFrontOneHeadBodyRectLength;
+
+const webDesignHeroRectFrontOneHeadBodyRectBlTr = document.querySelector(
+  "#web_design_hero_rect_front_one_body_rect_bl_tr"
+);
+const webDesignHeroRectFrontOneHeadBodyRectBlTrLength =
+  webDesignHeroRectFrontOneHeadBodyRectBlTr.getTotalLength();
+webDesignHeroRectFrontOneHeadBodyRectBlTr.style.strokeDasharray =
+  webDesignHeroRectFrontOneHeadBodyRectBlTrLength;
+webDesignHeroRectFrontOneHeadBodyRectBlTr.style.strokeDashoffset =
+  webDesignHeroRectFrontOneHeadBodyRectBlTrLength;
+
+const webDesignHeroRectBlackCrossLineOne = document.querySelector(
+  "#web_design_hero_rect_black_cross_line_one"
+);
+const webDesignHeroRectBlackCrossLineOneLength =
+  webDesignHeroRectBlackCrossLineOne.getTotalLength();
+webDesignHeroRectBlackCrossLineOne.style.strokeDasharray =
+  webDesignHeroRectBlackCrossLineOneLength;
+webDesignHeroRectBlackCrossLineOne.style.strokeDashoffset =
+  webDesignHeroRectBlackCrossLineOneLength;
+
+const webDesignHeroRectBlackCrossLineTwo = document.querySelector(
+  "#web_design_hero_rect_black_cross_line_two"
+);
+const webDesignHeroRectBlackCrossLineTwoLength =
+  webDesignHeroRectBlackCrossLineTwo.getTotalLength();
+webDesignHeroRectBlackCrossLineTwo.style.strokeDasharray =
+  webDesignHeroRectBlackCrossLineTwoLength;
+webDesignHeroRectBlackCrossLineTwo.style.strokeDashoffset =
+  webDesignHeroRectBlackCrossLineTwoLength;
 // --------------------------------- Web Design Hero SVG Animation - End ----------------------------------
