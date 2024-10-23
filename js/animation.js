@@ -35,6 +35,17 @@ observerWebDesignSvgHero.observe(
   document.querySelector("#web_design_svg_hero")
 );
 
+const observerCrmDashSvgHero = new IntersectionObserver((enteries) => {
+  enteries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      document
+        .querySelector("#crm_dash_svg_id_hero")
+        .classList.add("crm_dash_svg_hero_animate");
+    }
+  });
+});
+observerCrmDashSvgHero.observe(document.querySelector("#crm_dash_svg_id_hero"));
+
 // -----------------------------------  Hamburger Navigation - Start -----------------------------------------------
 const hamburger = document.querySelector(".ham_nav_btn");
 const hamburgerBarBot = document.querySelector(".hamburger__bar_bot");

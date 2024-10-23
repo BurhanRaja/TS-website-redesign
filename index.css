@@ -976,8 +976,23 @@ body {
   animation: drawPath 1.5s ease forwards;
   animation-delay: 7.2s;
 }
-
 /* First Illustration (Web Design) - End */
+
+/* First Illustration (CRM Dashboard) - Start */
+#crm_dash_svg_hero_react_main {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 2s;
+  transform: translateY(-90px);
+  opacity: 0;
+  height: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_react_main {
+  transform: translateY(0px);
+  opacity: 1;
+  height: 100%;
+}
+/* First Illustration (CRM Dashboard) - End */
 
 @keyframes drawPath {
   to {
