@@ -67,9 +67,30 @@
             <!-- Nav - First Part  -->
             <li class="hidden lg:block">
               <ul class="flex items-center justify-between p-2">
-                <li><a class="hover:cursor-pointer font-semibold">Home</a></li>
-                <li class="">
-                  <a class="hover:cursor-pointer font-semibold">About</a>
+                <li><a href="./index.html" class="hover:cursor-pointer font-semibold">Home</a></li>
+                <li class="relative  group/about">
+                  <a class="hover:cursor-pointer font-semibold">
+                    About
+                  </a>
+                  <div class="absolute bg-white rounded-[1.5rem] w-[200px] -left-8 mt-4 transition-all duration-500 invisible opacity-0 group-hover/about:opacity-100 group-hover/about:visible">
+                    <ul class="p-5">
+                      <li class="mb-4">
+                        <a href="./about/our-story.html" class="hover:text-primary font-medium">Our Story</a>
+                      </li>
+                      <li class="mb-4">
+                        <a href="./about/how-we-do-it.html" class="hover:text-primary font-medium">How we do it?</a>
+                      </li>
+                      <li class="mb-4">
+                        <a href="./about/our-partners.html" class="hover:text-primary font-medium">Our Partners</a>
+                      </li>
+                      <li class="mb-4">
+                        <a href="./about/our-achievement.html" class="hover:text-primary font-medium">Our Achievement</a>
+                      </li>
+                      <li class="">
+                        <a href="./about/featured-on.html" class="hover:text-primary font-medium">Featured On</a>
+                      </li>
+                    </ul>
+                  </div>
                 </li>
                 <li>
                   <a class="hover:cursor-pointer font-semibold">Our Services</a>
@@ -143,6 +164,7 @@
                     class="mb-8 md:mb-16 hamburger_nav_item hamburger_nav_item_1"
                   >
                     <a
+                    href="./index.html"
                       class="text-3xl md:text-5xl font-semibold flex items-center"
                     >
                       <button class="mr-3">
@@ -263,6 +285,7 @@
                           </li>
                           <li class="mb-6 md:mb-10">
                             <a
+                            href="./about/our-story.html"
                               class="text-2xl md:text-4xl flex items-center font-semibold"
                             >
                               <span>
@@ -307,6 +330,7 @@
                           </li>
                           <li class="mb-6 md:mb-10">
                             <a
+                            href="./about/how-we-do-it.html"
                               class="text-2xl md:text-4xl flex items-center font-semibold"
                             >
                               <span>
@@ -351,6 +375,7 @@
                           </li>
                           <li class="mb-6 md:mb-10">
                             <a
+                            href="./about/our-partners.html"
                               class="text-2xl md:text-4xl flex items-center font-semibold"
                             >
                               <span>
@@ -395,6 +420,7 @@
                           </li>
                           <li class="mb-6 md:mb-10">
                             <a
+                            href="./about/our-achievement.html"
                               class="text-2xl md:text-4xl flex items-center font-semibold"
                             >
                               <span>
@@ -439,6 +465,7 @@
                           </li>
                           <li class="mb-6 md:mb-10">
                             <a
+                            href="./about/featured-on.html"
                               class="text-2xl md:text-4xl flex items-center font-semibold"
                             >
                               <span>
@@ -5373,7 +5400,7 @@
           class="mt-7 p-5 rounded-[1rem] bg-gray-100 flex justify-between items-center flex-wrap"
         >
           <div class="mb-6 lg:mb-0">
-            <img src="./public/logo/Techysquad-Logo-01.png" width="70" />
+            <img src="./public/logo/logotechysquad-dark.png" width="150" />
           </div>
           <div>
             <div class="flex items-center mb-6 lg:mb-0">
@@ -5513,8 +5540,9 @@
       }
     }
   </script>
-  <script type="module" src="./js/animation.js"></script>
+  <script type="module" src="./js/common-animation.js"></script>
   <script type="module" src="./js/simple-transitions.js"></script>
+  <script type="module" src="./js/animation.js"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
