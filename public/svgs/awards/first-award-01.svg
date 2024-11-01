@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <circle cx="514.08" cy="442.16" r="244.2" style="fill: none; stroke: #a6c626; stroke-dasharray: 11.99 11.99; stroke-miterlimit: 10; stroke-width: 48px;"/>
+  <path d="M372.08,579.51h285.05c7.19,0,13.03,5.84,13.03,13.03v68.65h-311.1v-68.65c0-7.19,5.84-13.03,13.03-13.03Z" style="fill: #212124;"/>
+  <rect x="407.28" y="598.54" width="207.23" height="54.4" style="fill: #cae84d;"/>
+  <path d="M328.6,660.18h373.65c5.62,0,10.18,4.56,10.18,10.18v34.97h-394v-34.97c0-5.62,4.56-10.18,10.18-10.18Z" style="fill: #212124;"/>
+  <path d="M124.93,704.32h786.35c8.82,0,15.98,7.16,15.98,15.98v65.69H108.95v-65.69c0-8.82,7.16-15.98,15.98-15.98Z" style="fill: #212124;"/>
+  <path d="M124.93,660.18h337.47c8.82,0,15.98,7.16,15.98,15.98v109.84H108.95v-109.84c0-8.82,7.16-15.98,15.98-15.98Z" style="fill: #212124;"/>
+  <rect x="157.89" y="686.36" width="236.1" height="54.4" style="fill: #cae84d;"/>
+  <path d="M59.7,785h911.57c6.32,0,11.45,5.13,11.45,11.45v33.7H48.26v-33.7c0-6.32,5.13-11.45,11.45-11.45Z" style="fill: #212124;"/>
+  <rect x="625.46" y="723.59" width="236.1" height="54.4" style="fill: #cae84d;"/>
+  <text transform="translate(413.28 579.46)" style="fill: #ea550f; font-family: FranklinGothic-Demi, &apos;Franklin Gothic Demi&apos;; font-size: 331.68px; font-weight: 300;"><tspan x="0" y="0">1</tspan></text>
+</svg>

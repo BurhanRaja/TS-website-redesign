@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <path d="M1321.22-455.12h134.04V275.68h-134.04c-31.71,0-57.45-25.74-57.45-57.45V-397.68c0-31.71,25.74-57.45,57.45-57.45Z" transform="translate(1269.79 -1449.24) rotate(90)" style="fill: #bbdc36;"/>
+  <path d="M621.86-99.55h134.04V482.57h-134.04c-31.71,0-57.45-25.74-57.45-57.45V-42.11c0-31.71,25.74-57.45,57.45-57.45Z" transform="translate(851.67 -468.65) rotate(90)" style="fill: #ff7332;"/>
+  <path d="M354.43,631.59h134.04v534.86h-134.04c-31.71,0-57.45-25.74-57.45-57.45v-419.97c0-31.71,25.74-57.45,57.45-57.45Z" transform="translate(-506.29 1291.75) rotate(-90)" style="fill: #c33e00;"/>
+  <image width="854" height="674" transform="translate(41.52 170.37) scale(1.12)" xlink:href="../../images/awards/excellence-award.png"/>
+</svg>

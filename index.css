@@ -154,7 +154,6 @@ body {
 
 /* Know More - Start */
 .arrow_know_more_one_animate #arrow_know_more_one_path_one {
-  stroke: #ea550f;
   stroke-dasharray: 1000;
   stroke-dashoffset: -1000;
   animation: drawPath 1.5s ease forwards;
@@ -169,7 +168,6 @@ body {
   animation: drawLine 2s ease forwards 1s;
   transition: all;
   transition-duration: 0.5s;
-  stroke: #fff;
 }
 
 #arrow_know_more_one_path_two {
@@ -179,11 +177,8 @@ body {
   animation: fadeInArrowHead 1s ease forwards 2s;
   transition: all;
   transition-duration: 0.5s;
-  fill: #fff;
 }
-#arrow_know_more_one_circle {
-  fill: #ea550f;
-}
+
 .arrow_know_more_one_animate #arrow_know_more_one_circle {
   transition: all;
   transition-duration: 0.3s;
@@ -206,23 +201,6 @@ body {
   /* transition-delay: 1s; */
   margin-right: -20px;
   opacity: 0;
-}
-.know_more_one_btn:hover #arrow_know_more_one_line {
-  transform: translateX(230px);
-  stroke: #1c1c1c;
-}
-.know_more_one_btn:hover #arrow_know_more_one_path_two {
-  transform: translateX(230px);
-  fill: #1c1c1c;
-}
-.know_more_one_btn:hover #arrow_know_more_one_path_one {
-  stroke: #a6c626;
-}
-.know_more_one_btn:hover #arrow_know_more_one_circle {
-  fill: #a6c626;
-}
-.know_more_one_btn:hover .know_more_one_text {
-  transform: translateX(12px);
 }
 /* Know More - End */
 
@@ -993,6 +971,70 @@ body {
   height: 100%;
 }
 /* First Illustration (CRM Dashboard) - End */
+
+/* Common Arrow Button */
+.btn_arrow_circle .btn_arrow_circle_line,
+.btn_arrow_circle .btn_arrow_circle_text,
+.btn_arrow_circle .btn_arrow_circle_path_two {
+  transition: all;
+  transition-duration: 0.6s;
+}
+.btn_arrow_circle_path_one,
+.btn_arrow_circle_circle {
+  stroke: #ea550f;
+  fill: #ea550f;
+}
+.btn_arrow_circle_line,
+.btn_arrow_circle_path_two {
+  stroke: #fff;
+  fill: #fff;
+}
+
+.btn_arrow_circle:hover .btn_arrow_circle_line {
+  transform: translateX(230px);
+  stroke: #1c1c1c;
+}
+.btn_arrow_circle:hover .btn_arrow_circle_path_two {
+  transform: translateX(230px);
+  fill: #1c1c1c;
+}
+.btn_arrow_circle:hover .btn_arrow_circle_path_one {
+  stroke: #a6c626;
+}
+.btn_arrow_circle:hover .btn_arrow_circle_circle {
+  fill: #a6c626;
+}
+.btn_arrow_circle:hover .btn_arrow_circle_text {
+  transform: translateX(12px);
+}
+
+.read_more_btn .read_more_btn_circle,
+.read_more_btn .read_more_btn_line,
+.read_more_btn .read_more_btn_path {
+  transition: all;
+  transition-duration: 0.6s;
+}
+.read_more_btn .read_more_btn_circle {
+  fill: #ea550f;
+}
+.read_more_btn .read_more_btn_line {
+  stroke: #fff;
+}
+.read_more_btn .read_more_btn_path {
+  fill: #fff;
+}
+.read_more_btn:hover .read_more_btn_circle {
+  fill: #a6c626;
+}
+.read_more_btn:hover .read_more_btn_line {
+  transform: translate(190px, -190px);
+  stroke: #000000;
+}
+.read_more_btn:hover .read_more_btn_path {
+  transform: translate(190px, -190px);
+  fill: #000000;
+}
+/* Common Arrow Button */
 
 @keyframes drawPath {
   to {

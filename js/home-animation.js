@@ -58,7 +58,7 @@ observerCrmDashSvgHero.observe(document.querySelector("#crm_dash_svg_id_hero"));
 const arrowKnowMoreOnePathOne = document.querySelector(
   "#arrow_know_more_one_path_one"
 );
-const arrowKnowMoreOnePathOneLength = arrowKnowMoreOnePathOne.getTotalLength();
+const arrowKnowMoreOnePathOneLength = arrowKnowMoreOnePathOne?.getTotalLength();
 
 // Apply the calculated path length for smoother animation
 arrowKnowMoreOnePathOne.style.strokeDasharray = arrowKnowMoreOnePathOneLength;
@@ -77,7 +77,7 @@ const socialMediaSvgHeroLineOne = document.querySelector(
   "#social_media_svg_hero_rect_one_line_one"
 );
 const socialMediaSvgHeroLineOneLength =
-  socialMediaSvgHeroLineOne.getTotalLength();
+  socialMediaSvgHeroLineOne?.getTotalLength();
 socialMediaSvgHeroLineOne.style.strokeDasharray =
   socialMediaSvgHeroLineOneLength;
 socialMediaSvgHeroLineOne.style.strokeDashoffset =
@@ -88,7 +88,7 @@ const socialMediaSvgHeroLineTwo = document.querySelector(
   "#social_media_svg_hero_rect_one_line_two"
 );
 const socialMediaSvgHeroLineTwoLength =
-  socialMediaSvgHeroLineTwo.getTotalLength();
+  socialMediaSvgHeroLineTwo?.getTotalLength();
 socialMediaSvgHeroLineTwo.style.strokeDasharray =
   socialMediaSvgHeroLineTwoLength;
 socialMediaSvgHeroLineTwo.style.strokeDashoffset =
@@ -118,49 +118,49 @@ const socialMediaSvgHeroGraphLineSeven = document.querySelector(
 );
 
 const socialMediaSvgHeroGraphLineOneLength =
-  socialMediaSvgHeroGraphLineOne.getTotalLength();
+  socialMediaSvgHeroGraphLineOne?.getTotalLength();
 socialMediaSvgHeroGraphLineOne.style.strokeDasharray =
   socialMediaSvgHeroGraphLineOneLength;
 socialMediaSvgHeroGraphLineOne.style.strokeDashoffset =
   socialMediaSvgHeroGraphLineOneLength;
 
 const socialMediaSvgHeroGraphLineTwoLength =
-  socialMediaSvgHeroGraphLineTwo.getTotalLength();
+  socialMediaSvgHeroGraphLineTwo?.getTotalLength();
 socialMediaSvgHeroGraphLineTwo.style.strokeDasharray =
   socialMediaSvgHeroGraphLineTwoLength;
 socialMediaSvgHeroGraphLineTwo.style.strokeDashoffset =
   socialMediaSvgHeroGraphLineTwoLength;
 
 const socialMediaSvgHeroGraphLineThreeLength =
-  socialMediaSvgHeroGraphLineThree.getTotalLength();
+  socialMediaSvgHeroGraphLineThree?.getTotalLength();
 socialMediaSvgHeroGraphLineThree.style.strokeDasharray =
   socialMediaSvgHeroGraphLineThreeLength;
 socialMediaSvgHeroGraphLineThree.style.strokeDashoffset =
   socialMediaSvgHeroGraphLineThreeLength;
 
 const socialMediaSvgHeroGraphLineFourLength =
-  socialMediaSvgHeroGraphLineFour.getTotalLength();
+  socialMediaSvgHeroGraphLineFour?.getTotalLength();
 socialMediaSvgHeroGraphLineFour.style.strokeDasharray =
   socialMediaSvgHeroGraphLineFourLength;
 socialMediaSvgHeroGraphLineFour.style.strokeDashoffset =
   socialMediaSvgHeroGraphLineFourLength;
 
 const socialMediaSvgHeroGraphLineFiveLength =
-  socialMediaSvgHeroGraphLineFive.getTotalLength();
+  socialMediaSvgHeroGraphLineFive?.getTotalLength();
 socialMediaSvgHeroGraphLineFive.style.strokeDasharray =
   socialMediaSvgHeroGraphLineFiveLength;
 socialMediaSvgHeroGraphLineFive.style.strokeDashoffset =
   socialMediaSvgHeroGraphLineFiveLength;
 
 const socialMediaSvgHeroGraphLineSixLength =
-  socialMediaSvgHeroGraphLineSix.getTotalLength();
+  socialMediaSvgHeroGraphLineSix?.getTotalLength();
 socialMediaSvgHeroGraphLineSix.style.strokeDasharray =
   socialMediaSvgHeroGraphLineSixLength;
 socialMediaSvgHeroGraphLineSix.style.strokeDashoffset =
   socialMediaSvgHeroGraphLineSixLength;
 
 const socialMediaSvgHeroGraphLineSevenLength =
-  socialMediaSvgHeroGraphLineSeven.getTotalLength();
+  socialMediaSvgHeroGraphLineSeven?.getTotalLength();
 socialMediaSvgHeroGraphLineSeven.style.strokeDasharray =
   socialMediaSvgHeroGraphLineSevenLength;
 socialMediaSvgHeroGraphLineSeven.style.strokeDashoffset =
@@ -171,7 +171,7 @@ const socialMediaSvgHeroInstagramGray = document.querySelector(
   "#social_media_svg_hero_instagram_gray"
 );
 const socialMediaSvgHeroInstagramGrayLength =
-  socialMediaSvgHeroInstagramGray.getTotalLength();
+  socialMediaSvgHeroInstagramGray?.getTotalLength();
 socialMediaSvgHeroInstagramGray.style.strokeDasharray =
   socialMediaSvgHeroInstagramGrayLength;
 socialMediaSvgHeroInstagramGray.style.strokeDashoffset =
@@ -182,7 +182,7 @@ const socialMediaSvgHeroInstagramGreen = document.querySelector(
   "#social_media_svg_hero_instagram_green"
 );
 const socialMediaSvgHeroInstagramGreenLength =
-  socialMediaSvgHeroInstagramGreen.getTotalLength();
+  socialMediaSvgHeroInstagramGreen?.getTotalLength();
 socialMediaSvgHeroInstagramGreen.style.strokeDasharray =
   socialMediaSvgHeroInstagramGreenLength;
 socialMediaSvgHeroInstagramGreen.style.strokeDashoffset =
@@ -193,7 +193,7 @@ const socialMediaSvgHeroLinkedInGray = document.querySelector(
   "#social_media_svg_hero_linkedin_gray"
 );
 const socialMediaSvgHeroLinkedInGrayLength =
-  socialMediaSvgHeroLinkedInGray.getTotalLength();
+  socialMediaSvgHeroLinkedInGray?.getTotalLength();
 socialMediaSvgHeroLinkedInGray.style.strokeDasharray =
   socialMediaSvgHeroLinkedInGrayLength;
 socialMediaSvgHeroLinkedInGray.style.strokeDashoffset =
@@ -204,7 +204,7 @@ const socialMediaSvgHeroLinkedInGreen = document.querySelector(
   "#social_media_svg_hero_linkedin_green"
 );
 const socialMediaSvgHeroLinkedInGreenLength =
-  socialMediaSvgHeroLinkedInGreen.getTotalLength();
+  socialMediaSvgHeroLinkedInGreen?.getTotalLength();
 socialMediaSvgHeroLinkedInGreen.style.strokeDasharray =
   socialMediaSvgHeroLinkedInGreenLength;
 socialMediaSvgHeroLinkedInGreen.style.strokeDashoffset =
@@ -215,7 +215,7 @@ const socialMediaSvgHeroYoutubeGray = document.querySelector(
   "#social_media_svg_hero_youtube_gray"
 );
 const socialMediaSvgHeroYoutubeGrayLength =
-  socialMediaSvgHeroYoutubeGray.getTotalLength();
+  socialMediaSvgHeroYoutubeGray?.getTotalLength();
 socialMediaSvgHeroYoutubeGray.style.strokeDasharray =
   socialMediaSvgHeroYoutubeGrayLength;
 socialMediaSvgHeroYoutubeGray.style.strokeDashoffset =
@@ -226,7 +226,7 @@ const socialMediaSvgHeroYoutubeGreen = document.querySelector(
   "#social_media_svg_hero_youtube_green"
 );
 const socialMediaSvgHeroYoutubeGreenLength =
-  socialMediaSvgHeroYoutubeGreen.getTotalLength();
+  socialMediaSvgHeroYoutubeGreen?.getTotalLength();
 socialMediaSvgHeroYoutubeGreen.style.strokeDasharray =
   socialMediaSvgHeroYoutubeGreenLength;
 socialMediaSvgHeroYoutubeGreen.style.strokeDashoffset =
@@ -238,7 +238,7 @@ const webDesignHeroRectFrontOneHeadBodyRect = document.querySelector(
   "#web_design_hero_rect_front_one_body_rect"
 );
 const webDesignHeroRectFrontOneHeadBodyRectLength =
-  webDesignHeroRectFrontOneHeadBodyRect.getTotalLength();
+  webDesignHeroRectFrontOneHeadBodyRect?.getTotalLength();
 webDesignHeroRectFrontOneHeadBodyRect.style.strokeDasharray =
   webDesignHeroRectFrontOneHeadBodyRectLength;
 webDesignHeroRectFrontOneHeadBodyRect.style.strokeDashoffset =
@@ -248,7 +248,7 @@ const webDesignHeroRectFrontOneHeadBodyRectBlTr = document.querySelector(
   "#web_design_hero_rect_front_one_body_rect_bl_tr"
 );
 const webDesignHeroRectFrontOneHeadBodyRectBlTrLength =
-  webDesignHeroRectFrontOneHeadBodyRectBlTr.getTotalLength();
+  webDesignHeroRectFrontOneHeadBodyRectBlTr?.getTotalLength();
 webDesignHeroRectFrontOneHeadBodyRectBlTr.style.strokeDasharray =
   webDesignHeroRectFrontOneHeadBodyRectBlTrLength;
 webDesignHeroRectFrontOneHeadBodyRectBlTr.style.strokeDashoffset =
@@ -258,7 +258,7 @@ const webDesignHeroRectBlackCrossLineOne = document.querySelector(
   "#web_design_hero_rect_black_cross_line_one"
 );
 const webDesignHeroRectBlackCrossLineOneLength =
-  webDesignHeroRectBlackCrossLineOne.getTotalLength();
+  webDesignHeroRectBlackCrossLineOne?.getTotalLength();
 webDesignHeroRectBlackCrossLineOne.style.strokeDasharray =
   webDesignHeroRectBlackCrossLineOneLength;
 webDesignHeroRectBlackCrossLineOne.style.strokeDashoffset =
@@ -268,7 +268,7 @@ const webDesignHeroRectBlackCrossLineTwo = document.querySelector(
   "#web_design_hero_rect_black_cross_line_two"
 );
 const webDesignHeroRectBlackCrossLineTwoLength =
-  webDesignHeroRectBlackCrossLineTwo.getTotalLength();
+  webDesignHeroRectBlackCrossLineTwo?.getTotalLength();
 webDesignHeroRectBlackCrossLineTwo.style.strokeDasharray =
   webDesignHeroRectBlackCrossLineTwoLength;
 webDesignHeroRectBlackCrossLineTwo.style.strokeDashoffset =

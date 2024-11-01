@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_11" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <path d="M630.23,394.51h92.09c11.41,0,20.68,9.27,20.68,20.68v488.57h-133.45v-488.57c0-11.41,9.27-20.68,20.68-20.68Z" style="fill: #ea550f;"/>
+  <path d="M792.84,281.41h88.24c11.41,0,20.68,9.27,20.68,20.68v601.35h-129.6V302.09c0-11.41,9.27-20.68,20.68-20.68Z" style="fill: #a6c626;"/>
+  <path d="M152.62,656.55h88.26c11.41,0,20.68,9.27,20.68,20.68v226.53h-129.62v-226.53c0-11.41,9.27-20.68,20.68-20.68Z" style="fill: #a6c626;"/>
+  <path d="M308.85,584.74h92.79c11.41,0,20.68,9.27,20.68,20.68v298.34h-134.15v-298.34c0-11.41,9.27-20.68,20.68-20.68Z" style="fill: #ea550f;"/>
+  <path d="M469.78,497.82h95.59c11.41,0,20.68,9.27,20.68,20.68v385.27h-136.95v-385.27c0-11.41,9.27-20.68,20.68-20.68Z" style="fill: #a6c626;"/>
+  <line x1="144.29" y1="588.77" x2="705.79" y2="256.59" style="fill: none; stroke: #070707; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 27px;"/>
+  <path d="M756.37,232.39l-72.95-8.95c-2.37-.29-4.16,2.09-3.23,4.29l28.72,67.66c.93,2.2,3.89,2.56,5.33.65l44.23-58.7c1.44-1.91.27-4.65-2.1-4.94Z" style="fill: #070707;"/>
+  <g>
+    <circle cx="834.06" cy="203.41" r="47.86" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <path d="M824.55,156.5c-2.76,2.19-17.78,18.78-18.76,45.56-1.04,28.36,14.48,46.03,16.93,48.09" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <path d="M844.1,156.61c2.76,2.19,19.2,19.42,20.18,46.21,1.04,28.36-16.27,45.49-18.72,47.55" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <path d="M879.66,218.02c-2.19,2.76-17.93,12.87-44.72,13.85-28.36,1.04-44.48-11.62-46.54-14.07" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <path d="M880.54,191.94c-2.19-2.76-19.69-15.43-46.48-16.41-28.36-1.04-43.99,12.35-46.05,14.79" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <line x1="833.59" y1="155.55" x2="833.59" y2="251.05" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <line x1="785.84" y1="203.3" x2="881.35" y2="203.3" style="fill: none; stroke: #ea550f; stroke-miterlimit: 10; stroke-width: 5px;"/>
+  </g>
+</svg>
