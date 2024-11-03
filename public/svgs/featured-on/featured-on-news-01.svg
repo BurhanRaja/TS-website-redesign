@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="122.82" y="118.79" width="773.2" height="715.68" rx="20.38" ry="20.38" style="fill: #f77d4d;"/>
+  <rect x="188.87" y="177.95" width="374.68" height="222.93" rx="13.79" ry="13.79" style="fill: #ea550f;"/>
+  <rect x="545.58" y="521.63" width="293.86" height="247.68" rx="13.79" ry="13.79" style="fill: #ea550f;"/>
+  <line x1="599.31" y1="216.88" x2="839.44" y2="216.88" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="599.31" y1="261.35" x2="839.44" y2="261.35" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="599.31" y1="305.82" x2="839.44" y2="305.82" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="599.31" y1="350.29" x2="839.44" y2="350.29" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="599.31" y1="394.76" x2="839.44" y2="394.76" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="188.87" y1="444.79" x2="839.44" y2="444.79" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="494.82" x2="839.44" y2="494.82" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="539.29" x2="509.42" y2="539.29" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="583.76" x2="509.42" y2="583.76" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="628.23" x2="509.42" y2="628.23" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="672.7" x2="509.42" y2="672.7" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="719.39" x2="509.42" y2="719.39" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="193.69" y1="763.86" x2="509.42" y2="763.86" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="822.51" y1="411.83" x2="965.87" y2="539.29" style="fill: none; stroke: #2d2d2d; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 41px;"/>
+  <circle cx="729.62" cy="314.89" r="127.05" style="fill: #fff; stroke: #2d2d2d; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 36px;"/>
+  <circle cx="204.36" cy="786.04" r="137.72" style="fill: #a6c626;"/>
+  <text transform="translate(668.93 392.21)" style="font-family: CascadiaMonoRoman-Bold, &apos;Cascadia Mono&apos;; font-size: 206.78px; font-variation-settings: &apos;wght&apos; 700; font-weight: 700;"><tspan x="0" y="0">?</tspan></text>
+  <path d="M370.58,914.59l-41.95-104.85c-1.88-4.7-8.14-5.6-11.27-1.62l-69.83,88.75c-3.13,3.98-.78,9.85,4.23,10.57l111.78,16.09c5.01.72,8.92-4.25,7.04-8.95Z" style="fill: #a6c626;"/>
+  <circle cx="128.07" cy="791.25" r="22.42" style="fill: #fff;"/>
+  <circle cx="199.23" cy="791.25" r="22.42" style="fill: #fff;"/>
+  <circle cx="272.6" cy="791.25" r="22.42" style="fill: #fff;"/>
+</svg>
