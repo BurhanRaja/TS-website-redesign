@@ -108,6 +108,9 @@ body {
 .hamburger_navigation .hamburger_nav_item_5 {
   transition-delay: 0.2s;
 }
+.hamburger_navigation .hamburger_nav_item_6 {
+  transition-delay: 0.35s;
+}
 
 .hamburger_nav_about,
 .hamburger_nav_services,
