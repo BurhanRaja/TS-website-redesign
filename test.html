@@ -3,57 +3,31 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Robot Bobby Earth</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.161/build/three.module.js",
+          "jsm/": "https://cdn.jsdelivr.net/npm/three@0.161/examples/jsm/"
+        }
+      }
+    </script>
   </head>
-
-  <style>
-    .typewriter {
-      position: relative;
-      font-family: monospace;
-      font-size: 24px;
-    }
-
-    h1:after {
-      content: "";
-      animation: blink 0.7s infinite;
-      color: black;
-    }
-
-    @keyframes blink {
-      0%,
-      100% {
-        opacity: 1;
-      }
-      50% {
-        opacity: 0;
-      }
-    }
-  </style>
-
   <body>
-    <div class="typewriter">
-      <h1 id="typewriterText"></h1>
-    </div>
+    <canvas id="globe" width="800" height="600"></canvas>
   </body>
-
-  <script>
-    const text =
-      "We are a web design agency helping businesses of all sizes get a better return from online activities. We design and build stunning bespoke websites. And we can help with a wide range of online marketing strategies. We have a complete Forex CRM Solution under one roof with Techysquad - The best Forex CRM Agency.";
-
-    let index = 0;
-    const speed = 10; // typing speed
-
-    function typeWriter() {
-      if (index < text.length) {
-        document.getElementById("hero_description_text").innerHTML +=
-          text.charAt(index);
-        index++;
-        setTimeout(typeWriter, speed);
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js",
+        "jsm/": "https://cdn.jsdelivr.net/npm/three@0.161.0/examples/jsm/"
       }
     }
-
-    window.onload = function () {
-      typeWriter();
-    };
   </script>
+  <script type="module" src="./test.js"></script>
 </html>
