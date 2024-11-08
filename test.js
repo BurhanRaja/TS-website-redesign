@@ -12946,7 +12946,7 @@ function init() {
   scene = new THREE.Scene();
 
   // const ambientLight = new THREE.AmbientLight(0xbbbbbb, 0.3);
-  const ambientLight = new THREE.AmbientLight(0xffffff, 0.3);
+  const ambientLight = new THREE.AmbientLight(0x000000, 0.3);
   scene.add(ambientLight);
   // scene.background = new THREE.Color(0x040d21);
 //   scene.background = new THREE.Color(0x000000);
@@ -12965,7 +12965,7 @@ function init() {
   camera.add(dLight1);
 
   // const dLight2 = new THREE.PointLight(0x8566cc, 0.5);
-  const dLight2 = new THREE.PointLight(0xffffff, 0.5);
+  const dLight2 = new THREE.PointLight(0x000000, 0.5);
   dLight2.position.set(-200, 1000, 200);
   camera.add(dLight2);
 
@@ -12976,16 +12976,16 @@ function init() {
   scene.add(camera);
 
   // scene.fog = new THREE.Fog(0x535ef3, 500, 150);
-  scene.fog = new THREE.Fog(0xffffff, 500, 1500);
+  // scene.fog = new THREE.Fog(0x000000, 500, 2000);
+  scene.fog = new THREE.Fog(0xe2a2, 500, 2000);
 
   controls = new OrbitControls(camera, renderer.domElement);
-  controls.enableDamping = true;
-  controls.dynamicDampingFactor = 0.01;
+  controls.enableDamping = false;
   controls.enablePan = false;
-  controls.minDistance = 200;
+  controls.enableZoom = false;
+  controls.minDistance = 100;
   controls.maxDistance = 500;
   controls.rotateSpeed = 0.8;
-  controls.zoomSpeed = 1;
   controls.autoRotate = true;
 
   window.addEventListener("resize", onWindowResize, false);
@@ -13038,3 +13038,12 @@ function animate() {
   renderer.render(scene, camera);
   requestAnimationFrame(animate);
 }
+
+let color = { red: 0, green: 0, blue: 0, alpha: 1.0 }
+color =
+  (color.red   << 24) |
+  (color.green << 16) |
+  (color.blue  <<  8) |
+  (color.alpha <<  0)
+
+  console.log(color);
