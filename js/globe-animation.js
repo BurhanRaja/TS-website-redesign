@@ -12939,7 +12939,11 @@ onWindowResize();
 animate();
 
 function init() {
-  renderer = new THREE.WebGLRenderer({ antialias: true, canvas: canvasInit, alpha: true });
+  renderer = new THREE.WebGLRenderer({
+    antialias: true,
+    canvas: canvasInit,
+    alpha: true,
+  });
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(canvasInit.clientWidth, canvasInit.clientHeight);
 
@@ -12949,9 +12953,14 @@ function init() {
   const ambientLight = new THREE.AmbientLight(0x000000, 0.3);
   scene.add(ambientLight);
   // scene.background = new THREE.Color(0x040d21);
-//   scene.background = new THREE.Color(0x000000);
+  //   scene.background = new THREE.Color(0x000000);
 
-  camera = new THREE.PerspectiveCamera(45, canvasInit.clientWidth / canvasInit.clientHeight, 0.1, 2000);
+  camera = new THREE.PerspectiveCamera(
+    45,
+    canvasInit.clientWidth / canvasInit.clientHeight,
+    0.1,
+    2000
+  );
   camera.aspect = canvasInit.clientWidth / canvasInit.clientHeight;
   camera.updateProjectionMatrix();
 
@@ -12975,9 +12984,7 @@ function init() {
 
   scene.add(camera);
 
-  // scene.fog = new THREE.Fog(0x535ef3, 500, 150);
-  // scene.fog = new THREE.Fog(0x000000, 500, 2000);
-  scene.fog = new THREE.Fog(0xe2a2, 500, 2000);
+  scene.fog = new THREE.Fog(0xffffff, 300, 500);
 
   controls = new OrbitControls(camera, renderer.domElement);
   controls.enableDamping = false;
@@ -13000,12 +13007,13 @@ function initGlobe() {
     .hexPolygonsData(features.features)
     .hexPolygonResolution(3)
     .hexPolygonMargin(0.6)
+    .hexPolygonColor(() => '#ffffff')
     .showAtmosphere(true)
-    .atmosphereColor("#fff")
-    .atmosphereAltitude(0.25);
+    .atmosphereColor("#000")
+    .atmosphereAltitude(0.15);
 
-  Globe.rotateY(-Math.PI * (5 / 9));
-  Globe.rotateZ(-Math.PI / 6);
+  Globe.rotateY(-Math.PI * 2);
+  //   Globe.rotateZ(-Math.PI / 6);
   const globeMaterial = Globe.globeMaterial();
   // globeMaterial.color = new THREE.Color(0x3a228a);
   // globeMaterial.emissive = new THREE.Color(0x220038);
@@ -13039,11 +13047,11 @@ function animate() {
   requestAnimationFrame(animate);
 }
 
-let color = { red: 0, green: 0, blue: 0, alpha: 1.0 }
+let color = { red: 0, green: 0, blue: 0, alpha: 1.0 };
 color =
-  (color.red   << 24) |
+  (color.red << 24) |
   (color.green << 16) |
-  (color.blue  <<  8) |
-  (color.alpha <<  0)
+  (color.blue << 8) |
+  (color.alpha << 0);
 
-  console.log(color);
+console.log(color);
