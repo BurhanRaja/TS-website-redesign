@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <rect x="87.15" y="182.79" width="840.1" height="629.62" rx="19.15" ry="19.15" style="fill: #3f3f3f;"/>
+  <path d="M106.3,182.79h801.8c10.57,0,19.15,8.58,19.15,19.15v43.39H87.15v-43.39c0-10.57,8.58-19.15,19.15-19.15Z" style="fill: #a5a5a5;"/>
+  <circle cx="818.52" cy="214.33" r="17.06" style="fill: #fff;"/>
+  <circle cx="871.41" cy="214.33" r="17.06" style="fill: #fff;"/>
+  <circle cx="504.49" cy="532.43" r="193.02" style="fill: #eaeaea; stroke: #b2b2b2; stroke-miterlimit: 10; stroke-width: 9px;"/>
+  <circle cx="735.72" cy="339.4" r="72.37" style="fill: #eaeaea; stroke: #b2b2b2; stroke-miterlimit: 10; stroke-width: 9px;"/>
+  <circle cx="214.87" cy="683.6" r="72.37" style="fill: #eaeaea; stroke: #b2b2b2; stroke-miterlimit: 10; stroke-width: 9px;"/>
+  <circle cx="835.58" cy="457.24" r="44.71" style="fill: #eaeaea; stroke: #b2b2b2; stroke-miterlimit: 10; stroke-width: 9px;"/>
+  <rect x="125.19" y="202.68" width="283.3" height="20.85" rx="7.15" ry="7.15" style="fill: #fff;"/>
+  <rect x="505.13" y="487.96" width="30.37" height="54.35" rx="12" ry="12" transform="translate(-115.98 152.9) rotate(-15.06)" style="fill: #a6c626;"/>
+  <rect x="438.17" y="562.1" width="20.73" height="54.35" rx="10.36" ry="10.36" transform="translate(-137.72 136.79) rotate(-15.06)" style="fill: #a6c626;"/>
+  <rect x="395.28" y="521.92" width="30.37" height="54.35" rx="12" ry="12" transform="translate(-128.58 125.52) rotate(-15.06)"/>
+  <rect x="413.93" y="514.23" width="50.23" height="54.35" rx="12" ry="12" transform="translate(-125.6 132.68) rotate(-15.06)" style="fill: #a6c626;"/>
+  <path d="M532.55,580.5l-67.74-17.89c-3.61.97-7.36-1.19-8.33-4.8l-10.59-39.36c-.97-3.61,1.19-7.36,4.8-8.33l47.36-55.11c3.92-4.56,11.35-2.88,12.92,2.93l30.73,113.34c1.51,5.57-3.57,10.68-9.15,9.21Z" style="fill: #ea550f;"/>
+  <line x1="544.69" y1="478.6" x2="593.55" y2="435.89" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="553.47" y1="506.6" x2="615.21" y2="486.64" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="558.82" y1="535.79" x2="622.95" y2="545.68" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <rect x="44.05" y="123.07" width="236.27" height="323.21" rx="15.74" ry="15.74" style="fill: #a6c626;"/>
+  <rect x="753.27" y="556.06" width="236.27" height="199.92" rx="16.04" ry="16.04" style="fill: #ea550f;"/>
+  <path d="M143.72,192.36c0,13.49-6.91,25.37-17.38,32.29-6.11,4.04-13.43,6.39-21.3,6.39-8.3,0-15.98-2.61-22.28-7.06-9.92-7-16.4-18.56-16.4-31.62,0-21.36,17.32-38.68,38.68-38.68s38.68,17.32,38.68,38.68Z" style="fill: #e5e5e5;"/>
+  <line x1="162.18" y1="165.43" x2="249.17" y2="165.43" style="fill: none; stroke: #5b5b5b; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 8px;"/>
+  <line x1="162.18" y1="179.43" x2="223.38" y2="179.43" style="fill: none; stroke: #5b5b5b; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="162.18" y1="190.43" x2="241.26" y2="190.43" style="fill: none; stroke: #5b5b5b; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="162.18" y1="200.43" x2="249.17" y2="200.43" style="fill: none; stroke: #5b5b5b; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <rect x="82.7" y="259.32" width="158.55" height="57.19" rx="12" ry="12" style="fill: #fff;"/>
+  <rect x="82.7" y="335.06" width="158.55" height="58.98" rx="12" ry="12" style="fill: #fff;"/>
+  <circle cx="103.89" cy="189.55" r="10.98" style="fill: #3f3f3f;"/>
+  <path d="M126.34,224.65c-6.11,4.04-13.43,6.39-21.3,6.39-8.3,0-15.98-2.61-22.28-7.06.79-11.34,10.24-20.28,21.77-20.28s21.35,9.3,21.81,20.95Z" style="fill: #3f3f3f;"/>
+  <polyline points="799.58 580.75 799.58 710.79 962.47 710.79" style="fill: none; stroke: #d6d6d6; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <polyline points="814.74 697.95 837.34 616.06 859.72 680.22 884.26 642.87 907.89 658.19 927.55 619.64 949.26 628.32 962.47 596.18" style="fill: none; stroke: #a6c626; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <image width="1575" height="1181" transform="translate(675.38 292.12) scale(.08)" xlink:href="../../images/homepage/instagram-logo.png"/>
+  <image width="2312" height="2306" transform="translate(179.96 647.02) scale(.03)" xlink:href="../../images/homepage/linkedin-logo.png"/>
+  <image width="1400" height="1400" transform="translate(799.58 422.44) scale(.05)" xlink:href="../../images/homepage/Youtube-logo.png"/>
+  <rect x="808.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="825.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="843.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="862.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="878.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="895.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="913.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="932.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="948.26" y="717.96" width="8.17" height="26.87" style="fill: #a6c626;"/>
+  <rect x="782.04" y="581.32" width="7.43" height="15.13" transform="translate(1374.64 -196.87) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="596.78" width="7.43" height="15.13" transform="translate(1390.1 -181.41) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="613.14" width="7.43" height="15.13" transform="translate(1406.46 -165.05) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="630.42" width="7.43" height="15.13" transform="translate(1423.74 -147.77) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="644.97" width="7.43" height="15.13" transform="translate(1438.28 -133.23) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="660.42" width="7.43" height="15.13" transform="translate(1453.74 -117.77) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="676.79" width="7.43" height="15.13" transform="translate(1470.11 -101.4) rotate(90)" style="fill: #fff;"/>
+  <rect x="782.04" y="694.06" width="7.43" height="15.13" transform="translate(1487.38 -84.13) rotate(90)" style="fill: #fff;"/>
+</svg>
