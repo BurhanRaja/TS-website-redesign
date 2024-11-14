@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <rect x="44.91" y="170.53" width="932.94" height="670.98" rx="27.57" ry="27.57" style="fill: #e5e5e5;"/>
+  <path d="M72.49,170.53h877.79c15.22,0,27.57,12.36,27.57,27.57v34.47H44.91v-34.47c0-15.22,12.36-27.57,27.57-27.57Z" style="fill: #c1c1c1;"/>
+  <circle cx="886.45" cy="201.51" r="11.49" style="fill: #fff;"/>
+  <circle cx="919.45" cy="201.51" r="11.49" style="fill: #fff;"/>
+  <rect x="90.36" y="194.53" width="412.09" height="17.36" rx="8.68" ry="8.68" style="fill: #fff;"/>
+  <path d="M44.91,232.57h166.98v608.94H65.34c-11.27,0-20.43-9.15-20.43-20.43V232.57h0Z" style="fill: #303030;"/>
+  <rect x="211.89" y="232.57" width="765.96" height="52.34" style="fill: #d3d3d3;"/>
+  <text transform="translate(229.26 266.69)" style="font-family: Arial-BoldMT, Arial; font-size: 20px; font-weight: 700;"><tspan x="0" y="0">Dashboard</tspan></text>
+  <rect x="230.72" y="307.17" width="715.98" height="185.87" rx="11.11" ry="11.11" style="fill: #303030;"/>
+  <text transform="translate(275.74 377.47)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 33px; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.02em;">W</tspan><tspan x="30.55" y="0">elcome to </tspan><tspan x="193.76" y="0" style="letter-spacing: -.02em;">W</tspan><tspan x="224.31" y="0" style="letter-spacing: 0em;">ordPress !</tspan></text>
+  <line x1="281.89" y1="408.79" x2="645.98" y2="408.79" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+  <rect x="774.62" y="336.79" width="75.06" height="91.4" rx="3.26" ry="3.26" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+  <rect x="822.11" y="363.09" width="75.06" height="91.4" rx="3.81" ry="3.81" style="fill: #636363;"/>
+  <rect x="230.72" y="512" width="711.13" height="162.53" rx="10.03" ry="10.03" style="fill: #f9f9f9;"/>
+  <path d="M236.66,704.02h326.65c3.28,0,5.94,2.66,5.94,5.94v131.55H230.72v-131.55c0-3.28,2.66-5.94,5.94-5.94Z" style="fill: #f9f9f9;"/>
+  <path d="M609.86,704.02h321.89c5.54,0,10.03,4.5,10.03,10.03v127.46h-337.57v-131.84c0-3.12,2.53-5.65,5.65-5.65Z" style="fill: #f9f9f9;"/>
+  <circle cx="282.89" cy="568.32" r="27.06" style="fill: #303030;"/>
+  <line x1="328.84" y1="554.53" x2="448.07" y2="554.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="328.84" y1="567.53" x2="410.04" y2="567.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="328.84" y1="581.53" x2="443.5" y2="581.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="328.84" y1="589.53" x2="451.78" y2="589.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="328.84" y1="597.53" x2="451.78" y2="597.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="328.84" y1="605.53" x2="394.73" y2="605.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="328.84" y1="620.53" x2="394.73" y2="620.53" style="fill: none; stroke: #7676ff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="516.62" cy="568.45" r="27.19" style="fill: #303030;"/>
+  <line x1="563.44" y1="554.53" x2="682.67" y2="554.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="563.44" y1="567.53" x2="644.64" y2="567.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="563.44" y1="581.53" x2="678.11" y2="581.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="563.44" y1="589.53" x2="686.38" y2="589.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="563.44" y1="597.53" x2="629.33" y2="597.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="563.44" y1="612.53" x2="629.33" y2="612.53" style="fill: none; stroke: #7676ff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="741.42" cy="567.81" r="26.56" style="fill: #303030;"/>
+  <line x1="786.87" y1="554.53" x2="906.1" y2="554.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="786.87" y1="567.53" x2="868.07" y2="567.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="786.87" y1="581.53" x2="909.81" y2="581.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <rect x="44.91" y="308.02" width="166.98" height="31.82" style="fill: #00749a;"/>
+  <rect x="44.91" y="340.02" width="166.98" height="58.6" style="fill: #3f3f3f;"/>
+  <line x1="786.87" y1="589.53" x2="909.81" y2="589.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="786.87" y1="598.53" x2="896.07" y2="598.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="786.87" y1="608.53" x2="909.81" y2="608.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="786.87" y1="617.53" x2="852.76" y2="617.53" style="fill: none; stroke: #636363; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="786.87" y1="632.53" x2="852.76" y2="632.53" style="fill: none; stroke: #7676ff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <line x1="230.72" y1="722.7" x2="569.24" y2="722.7" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  <line x1="604.75" y1="722.7" x2="941.85" y2="722.7" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  <circle cx="83.85" cy="269.06" r="21.69" style="fill: #fff;"/>
+  <image width="2400" height="2400" transform="translate(62.15 247.37) scale(.02)" xlink:href="../../images/homepage/wordpress-logo.png"/>
+  <text transform="translate(91.39 328.7)" style="fill: #fff; font-family: ArialMT, Arial; font-size: 13px;"><tspan x="0" y="0">Dashboard</tspan></text>
+  <text transform="translate(66.39 361.7)" style="fill: #fff; font-family: ArialMT, Arial; font-size: 11px;"><tspan x="0" y="0">Home</tspan></text>
+  <text transform="translate(66.39 382.7)" style="fill: #fff; font-family: ArialMT, Arial; font-size: 11px;"><tspan x="0" y="0">Upgrade</tspan></text>
+  <polygon points="199.53 324.35 219.99 336.16 219.99 312.54 199.53 324.35" style="fill: #e5e5e5;"/>
+</svg>
