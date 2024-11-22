@@ -975,6 +975,39 @@ body {
 }
 /* First Illustration (CRM Dashboard) - End */
 
+/*  */
+.accordion-item {
+  background-color: transparent;
+}
+.accordion-item .accordion-body {
+  opacity: 0;
+  height: 0;
+  padding: 0;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.accordion-item .accordion-body p {
+  display: none;
+}
+.accordion-item .accordion-btn {
+  transform: rotateX("0deg");
+}
+
+.accordion-item.active {
+  background-color: white;
+}
+.accordion-item.active .accordion-btn {
+  transform: rotateX("180deg");
+}
+.accordion-item.active .accordion-body {
+  height: 200px;
+  opacity: 100;
+  padding: 2rem;
+}
+.accordion-item.active .accordion-body p {
+  display: block;
+}
+
 /* Common Arrow Button */
 .btn_arrow_circle .btn_arrow_circle_line,
 .btn_arrow_circle .btn_arrow_circle_text,
