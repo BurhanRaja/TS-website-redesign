@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_31" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="41.05" y="44.13" width="948.26" height="940.6" rx="29.87" ry="29.87" style="fill: #fff;"/>
+  <rect x="94.03" y="161.95" width="198.8" height="191.64" rx="37.86" ry="37.86" style="fill: #f4f4f4;"/>
+  <rect x="94.03" y="420.18" width="198.8" height="191.64" rx="37.86" ry="37.86" style="fill: #f4f4f4;"/>
+  <rect x="94.03" y="678.41" width="198.8" height="191.64" rx="37.86" ry="37.86" style="fill: #f4f4f4;"/>
+  <rect x="335.05" y="161.95" width="611.71" height="191.64" rx="37.86" ry="37.86" style="fill: #f4f4f4;"/>
+  <rect x="335.05" y="420.18" width="611.71" height="191.64" rx="37.86" ry="37.86" style="fill: #f4f4f4;"/>
+  <rect x="335.05" y="678.41" width="611.71" height="191.64" rx="37.86" ry="37.86" style="fill: #f4f4f4;"/>
+  <text transform="translate(387.97 275)" style="fill: #ea550f; font-family: Arial-BoldMT, Arial; font-size: 55px; font-weight: 700;"><tspan x="0" y="0">Deisgn</tspan></text>
+  <text transform="translate(387.97 534)" style="fill: #a6c626; font-family: Arial-BoldMT, Arial; font-size: 55px; font-weight: 700;"><tspan x="0" y="0">Usability</tspan></text>
+  <text transform="translate(387.97 795)" style="fill: #ea550f; font-family: Arial-BoldMT, Arial; font-size: 55px; font-weight: 700;"><tspan x="0" y="0">Optimizing Content</tspan></text>
+  <path d="M241.68,224.6l-66.34,66.34-30.16-30.16" style="fill: none; stroke: #a6c626; stroke-linecap: round; stroke-linejoin: round; stroke-width: 16px;"/>
+  <path d="M241.68,477.6l-66.34,66.34-30.16-30.16" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 16px;"/>
+  <path d="M241.68,737.6l-66.34,66.34-30.16-30.16" style="fill: none; stroke: #a6c626; stroke-linecap: round; stroke-linejoin: round; stroke-width: 16px;"/>
+</svg>
