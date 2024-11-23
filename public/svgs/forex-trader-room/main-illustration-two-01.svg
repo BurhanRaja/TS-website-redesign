@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_41" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="29.17" y="139.74" width="968.17" height="730.59" rx="45.43" ry="45.43" style="fill: #f7f7f7;"/>
+  <path d="M77.42,140.42h874.23c25.21,0,45.68,20.47,45.68,45.68v17.6H77.42v-63.28h0Z" style="fill: #192f35;"/>
+  <path d="M71.78,140.42h182.06v729.91H71.78c-23.52,0-42.62-19.1-42.62-42.62V183.04c0-23.52,19.1-42.62,42.62-42.62Z" style="fill: #192f35;"/>
+  <circle cx="788.9" cy="173.67" r="18.18" style="fill: #7f7f7f;"/>
+  <line x1="819.27" y1="165.85" x2="916.29" y2="165.85" style="fill: none; stroke: #bababa; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="819.27" y1="182.74" x2="948.97" y2="182.74" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <rect x="77.42" y="177.85" width="133.28" height="50.62" rx="12" ry="12" style="fill: #243e44;"/>
+  <rect x="69.51" y="276.06" width="138.38" height="40.85" rx="12" ry="12" style="fill: #ea550f;"/>
+  <text transform="translate(90.44 303.53)" style="fill: #fff; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 18px; font-weight: 700;"><tspan x="0" y="0">Dashboard</tspan></text>
+  <text transform="translate(291.44 253.53)" style="fill: #282828; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 20px; font-weight: 700;"><tspan x="0" y="0">Dashboard</tspan></text>
+  <rect x="77.42" y="351.42" width="126.38" height="26.04" rx="12" ry="12" style="fill: #243e44;"/>
+  <rect x="77.42" y="411.42" width="126.38" height="26.04" rx="12" ry="12" style="fill: #243e44;"/>
+  <rect x="77.42" y="470.42" width="126.38" height="26.04" rx="12" ry="12" style="fill: #243e44;"/>
+  <rect x="77.42" y="530.42" width="126.38" height="26.04" rx="12" ry="12" style="fill: #243e44;"/>
+  <rect x="77.42" y="591.42" width="126.38" height="26.04" rx="12" ry="12" style="fill: #243e44;"/>
+  <rect x="286.53" y="274.55" width="260.43" height="238.89" rx="16.09" ry="16.09" style="fill: #ededed;"/>
+  <rect x="832.29" y="536.35" width="131.21" height="136.16" rx="16.09" ry="16.09" style="fill: #ededed;"/>
+  <path d="M832.29,604.43h131.21v51.99c0,8.88-7.21,16.09-16.09,16.09h-99.04c-8.88,0-16.09-7.21-16.09-16.09v-51.99h0Z" style="fill: #d8d8d8;"/>
+  <rect x="832.29" y="695.61" width="131.21" height="136.16" rx="16.09" ry="16.09" style="fill: #ededed;"/>
+  <path d="M832.29,764.43h131.21v51.99c0,8.88-7.21,16.09-16.09,16.09h-99.04c-8.88,0-16.09-7.21-16.09-16.09v-51.99h0Z" style="fill: #d8d8d8;"/>
+  <path d="M303.85,538.35h494.68c8.88,0,16.09,7.21,16.09,16.09v244.31H287.76v-244.31c0-8.88,7.21-16.09,16.09-16.09Z" style="fill: #ededed;"/>
+  <path d="M303.85,538.35h494.68c8.88,0,16.09,7.21,16.09,16.09v62.34H287.76v-62.34c0-8.88,7.21-16.09,16.09-16.09Z" style="fill: #d8d8d8;"/>
+  <rect x="564.3" y="275.74" width="110.87" height="62.95" rx="11.33" ry="11.33" style="fill: #ededed;"/>
+  <rect x="564.3" y="361.74" width="110.87" height="62.95" rx="11.33" ry="11.33" style="fill: #ededed;"/>
+  <rect x="564.3" y="449.74" width="110.87" height="62.95" rx="11.33" ry="11.33" style="fill: #ededed;"/>
+  <rect x="688.53" y="274.55" width="274.98" height="238.89" rx="16.09" ry="16.09" style="fill: #ededed;"/>
+  <rect x="651.27" y="549.99" width="137.72" height="26.04" rx="4.6" ry="4.6" style="fill: #ededed;"/>
+  <text transform="translate(658.71 566.35) scale(.78 1)" style="fill: #c1c1c1; font-family: MicrosoftTaiLe-Bold, &apos;Microsoft Tai Le&apos;; font-size: 10px; font-weight: 700;"><tspan x="0" y="0">Search</tspan></text>
+  <line x1="309.48" y1="599.54" x2="387.15" y2="600.05" style="fill: none; stroke: #ededed; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="411.4" y1="599.54" x2="489.06" y2="600.05" style="fill: none; stroke: #ededed; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="513.32" y1="599.54" x2="590.98" y2="600.05" style="fill: none; stroke: #ededed; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="615.24" y1="599.54" x2="692.9" y2="600.05" style="fill: none; stroke: #ededed; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="714.81" y1="599.54" x2="792.47" y2="600.05" style="fill: none; stroke: #ededed; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <rect x="287.76" y="665.77" width="526.85" height="43.97" style="fill: #d8d8d8;"/>
+  <path d="M287.76,754.77h526.85v50.97c0,8.67-7.04,15.7-15.7,15.7h-495.44c-8.67,0-15.7-7.04-15.7-15.7v-50.97h0Z" style="fill: #d8d8d8;"/>
+  <polyline points="312.57 320.72 312.57 483.61 521.42 483.61" style="fill: none; stroke: #cecece; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <g>
+    <polyline points="325.63 474.07 366.7 455.74 391.72 466.51 442.53 372.81 469.85 407.27 519.38 435.36" style="fill: none; stroke: #a6c626; stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px;"/>
+    <circle cx="443.14" cy="375.07" r="5.5" style="fill: #a6c626;"/>
+    <circle cx="519.14" cy="433.07" r="5.5" style="fill: #a6c626;"/>
+    <circle cx="470.14" cy="407.07" r="5.5" style="fill: #a6c626;"/>
+    <circle cx="392.14" cy="464.07" r="5.5" style="fill: #a6c626;"/>
+    <circle cx="367.14" cy="457.07" r="5.5" style="fill: #a6c626;"/>
+    <circle cx="327.05" cy="473.72" r="5.5" style="fill: #a6c626;"/>
+  </g>
+  <g>
+    <polyline points="325.68 472.72 365.39 421.54 390.87 440.51 418.59 387.56 483.41 468.5 519.38 356.98" style="fill: none; stroke: #ea550f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+    <circle cx="326.05" cy="472.72" r="5.5" style="fill: #ea550f;"/>
+    <circle cx="366.05" cy="422.72" r="5.5" style="fill: #ea550f;"/>
+    <circle cx="390.05" cy="439.72" r="5.5" style="fill: #ea550f;"/>
+    <circle cx="418.05" cy="388.72" r="5.5" style="fill: #ea550f;"/>
+    <circle cx="483.05" cy="467.72" r="5.5" style="fill: #ea550f;"/>
+    <circle cx="519.05" cy="357.72" r="5.5" style="fill: #ea550f;"/>
+  </g>
+  <line x1="312.57" y1="297.06" x2="488.55" y2="297.06" style="fill: none; stroke: #cecece; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 12px;"/>
+  <line x1="713.57" y1="299.06" x2="889.55" y2="299.06" style="fill: none; stroke: #cecece; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 12px;"/>
+  <rect x="710.87" y="327.49" width="231.83" height="39.83" rx="5.62" ry="5.62" style="fill: #d8d8d8;"/>
+  <rect x="710.87" y="377.49" width="231.83" height="39.83" rx="5.62" ry="5.62" style="fill: #d8d8d8;"/>
+  <rect x="710.87" y="427.49" width="231.83" height="39.83" rx="5.62" ry="5.62" style="fill: #d8d8d8;"/>
+</svg>

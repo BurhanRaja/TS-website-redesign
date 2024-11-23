@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_45" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 718.47">
+  <line x1="502.07" y1="230.94" x2="502.07" y2="344.3" style="fill: none; stroke: #ccc; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="301.56" y1="334.6" x2="301.56" y2="447.96" style="fill: none; stroke: #ccc; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="701.56" y1="334.6" x2="701.56" y2="447.96" style="fill: none; stroke: #ccc; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="703.18" y1="339.23" x2="502.07" y2="339.23" style="fill: none; stroke: #ccc; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <line x1="498.18" y1="339.23" x2="297.07" y2="339.23" style="fill: none; stroke: #ccc; stroke-miterlimit: 10; stroke-width: 10px;"/>
+  <rect x="355.26" y="64.56" width="293.47" height="187.47" rx="18.32" ry="18.32" style="fill: #a6c626;"/>
+  <rect x="148.14" y="389.23" width="293.47" height="187.47" rx="18.32" ry="18.32" style="fill: #a6c626;"/>
+  <rect x="553.54" y="389.23" width="293.47" height="187.47" rx="18.32" ry="18.32" style="fill: #a6c626;"/>
+  <circle cx="502.07" cy="130.64" r="34.09" style="fill: #fff;"/>
+  <rect x="441.61" y="173.91" width="122.42" height="62.04" rx="12" ry="12" style="fill: #fff;"/>
+  <circle cx="294.37" cy="447.35" r="34.09" style="fill: #fff;"/>
+  <rect x="233.91" y="490.63" width="122.42" height="62.04" rx="12" ry="12" style="fill: #fff;"/>
+  <circle cx="700.37" cy="447.35" r="34.09" style="fill: #fff;"/>
+  <rect x="639.91" y="490.63" width="122.42" height="62.04" rx="12" ry="12" style="fill: #fff;"/>
+</svg>

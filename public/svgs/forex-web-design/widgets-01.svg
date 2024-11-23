@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_38" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="70.25" y="160.4" width="193.79" height="240.51" rx="12" ry="12" style="fill: #dbff43;"/>
+  <path d="M70.25,343.17h193.79v45.74c0,6.62-5.38,12-12,12H82.25c-6.62,0-12-5.38-12-12v-45.74h0Z" style="fill: #a6c626;"/>
+  <rect x="422.33" y="634.28" width="165.06" height="208.34" rx="12" ry="12" style="fill: #e5e5e5;"/>
+  <rect x="780.29" y="425.94" width="172.09" height="184.21" rx="12" ry="12" style="fill: #dbff43;"/>
+  <rect x="285.48" y="160.4" width="330.13" height="240.51" rx="12" ry="12" style="fill: #a6c626;"/>
+  <rect x="422.33" y="425.94" width="338.55" height="183.31" rx="12" ry="12" style="fill: #e8e8e8;"/>
+  <rect x="607.95" y="634.28" width="344.68" height="208.34" rx="12" ry="12" style="fill: #192f35;"/>
+  <rect x="70.25" y="425.94" width="330.13" height="416.68" rx="12" ry="12" style="fill: #192f35;"/>
+  <rect x="637.82" y="160.4" width="314.81" height="240.51" rx="12" ry="12" style="fill: #192f35;"/>
+  <circle cx="186.71" cy="214.62" r="31.79" style="fill: none; stroke: #a6c626; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="214.71" cy="214.62" r="31.79" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <text transform="translate(224.33 328.74)" style="font-family: ArialMT, Arial; font-size: 11.5px;"><tspan x="0" y="0">6285</tspan></text>
+  <text transform="translate(87.39 379.38)" style="font-family: ArialMT, Arial; font-size: 23.8px;"><tspan x="0" y="0">$45.339</tspan></text>
+  <text transform="translate(320.27 321.76)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 37.46px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <text transform="translate(447.42 549.53)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 22.25px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(904.73 456.87)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 9.58px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(537.64 549.53)" style="fill: #324e54; font-family: Arial-BoldMT, Arial; font-size: 10px; font-weight: 700;"><tspan x="0" y="0">XXXX</tspan></text>
+  <text transform="translate(852.15 201.91)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 14.26px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <text transform="translate(852.15 265.91)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 14.26px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <text transform="translate(852.15 330.91)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 14.26px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <text transform="translate(320.54 363.23)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 23px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(877.48 227.08)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 11.28px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(877.48 293.08)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 11.28px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(877.48 358.08)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 11.28px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <path d="M94.7,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M103.81,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M112.91,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M122.01,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M140.22,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M149.32,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M158.43,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M167.53,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M185.74,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M194.84,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M203.95,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <path d="M213.05,325.99l-2.11-1.22,2.11-1.22c.12-.07.16-.22.09-.34l-.5-.86c-.07-.12-.22-.16-.34-.09l-2.11,1.22v-2.43c0-.14-.11-.25-.25-.25h-.99c-.14,0-.25.11-.25.25v2.43l-2.11-1.22c-.12-.07-.27-.03-.34.09l-.5.86c-.07.12-.03.27.09.34l2.11,1.22-2.11,1.22c-.12.07-.16.22-.09.34l.5.86c.07.12.22.16.34.09l2.11-1.22v2.43c0,.14.11.25.25.25h.99c.14,0,.25-.11.25-.25v-2.43l2.11,1.22c.12.07.27.03.34-.09l.5-.86c.07-.12.03-.27-.09-.34Z"/>
+  <circle cx="354.06" cy="226.57" r="45.79" style="fill: #dbff43;"/>
+  <circle cx="466.9" cy="481.77" r="22.92" style="fill: #dbff43;"/>
+  <text transform="translate(412.69 229.41)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 35.87px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(87.39 302.69)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 30px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(412.7 252.36)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 11.53px;"><tspan x="0" y="0">XXXXXXXXXXXXXXXX</tspan></text>
+  <text transform="translate(517.87 482.69)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 35.87px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(517.88 505.65)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 11.53px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(448.34 575.43)" style="fill: #878787; font-family: ArialMT, Arial; font-size: 15px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(600.88 505.65)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 11.53px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(591.88 507.65)" style="fill: #a6c626; font-family: Arial-BoldMT, Arial; font-size: 21px; font-weight: 700;"><tspan x="0" y="0">/</tspan></text>
+  <line x1="660.29" y1="243.96" x2="928.2" y2="243.96" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+  <line x1="660.29" y1="306.96" x2="928.2" y2="306.96" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+  <line x1="636.82" y1="707.62" x2="929.42" y2="707.62" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+  <line x1="636.82" y1="768.62" x2="929.42" y2="768.62" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+  <circle cx="682.25" cy="208.87" r="21.96" style="fill: #324e54;"/>
+  <circle cx="682.25" cy="275.87" r="21.96" style="fill: #324e54;"/>
+  <circle cx="682.25" cy="341.87" r="21.96" style="fill: #324e54;"/>
+  <text transform="translate(711.41 210.92)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 25.26px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(711.42 227.08)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 8.12px;"><tspan x="0" y="0">XXXXXXXXXXXXXXXX</tspan></text>
+  <text transform="translate(307.93 480.77)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 16.45px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <text transform="translate(335 509.8)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 13.01px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <circle cx="125.14" cy="488.96" r="35.49" style="fill: #324e54;"/>
+  <circle cx="485.28" cy="470.19" r="21.98" style="fill: #324e54;"/>
+  <text transform="translate(168.61 491.15)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 29.13px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(168.63 509.8)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 9.36px;"><tspan x="0" y="0">XXXXXXXXXXXXXXXX</tspan></text>
+  <circle cx="811.59" cy="458.85" r="17.35" style="fill: #a6c626;"/>
+  <text transform="translate(832.84 459.92)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 14.24px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(832.85 469.03)" style="fill: #a6c626; font-family: ArialMT, Arial; font-size: 4.58px;"><tspan x="0" y="0">XXXXXXXXXXXXXXXX</tspan></text>
+  <text transform="translate(711.41 276.92)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 25.26px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(711.42 293.08)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 8.12px;"><tspan x="0" y="0">XXXXXXXXXXXXXXXX</tspan></text>
+  <text transform="translate(711.41 341.92)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 25.26px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <rect x="90.82" y="551.19" width="290.55" height="198.13" rx="12" ry="12" style="fill: #324e54;"/>
+  <rect x="790.29" y="487.95" width="153.89" height="112.07" rx="6.54" ry="6.54" style="fill: #a6c626;"/>
+  <text transform="translate(711.42 358.08)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 8.12px;"><tspan x="0" y="0">XXXXXXXXXXXXXXXX</tspan></text>
+  <g>
+    <rect x="108.41" y="659.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="111.22" y="652.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="111.33" y="686" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="128.41" y="639.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="131.22" y="632.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="131.33" y="666" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="148.41" y="619.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="151.22" y="612.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="151.33" y="646" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="168.41" y="629.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="171.22" y="622.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="171.33" y="656" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="188.41" y="629.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="191.22" y="622.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="191.33" y="656" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="208.41" y="609.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="211.22" y="602.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="211.33" y="636" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="228.41" y="629.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="231.22" y="622.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="231.33" y="656" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="248.41" y="679.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="251.22" y="672.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="251.33" y="706" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="268.41" y="659.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="271.22" y="652.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="271.33" y="686" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="288.41" y="589.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="291.22" y="582.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="291.33" y="616" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="308.41" y="609.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="311.22" y="602.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="311.33" y="636" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="327.41" y="602.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="330.22" y="595.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="330.33" y="629" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <g>
+    <rect x="347.41" y="632.55" width="8.2" height="27.52" rx="4.1" ry="4.1" style="fill: #dbff43;"/>
+    <rect x="350.22" y="625.32" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+    <rect x="350.33" y="659" width="2.32" height="9.77" rx="1.16" ry="1.16" style="fill: #dbff43;"/>
+  </g>
+  <rect x="251.22" y="777.47" width="124.21" height="37.79" rx="6.45" ry="6.45" style="fill: #dbff43;"/>
+  <text transform="translate(784.49 678.12)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <circle cx="653.31" cy="674.55" r="21.96" style="fill: #324e54;"/>
+  <text transform="translate(682.48 674.6)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 18px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(682.49 690.76)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 8.12px;"><tspan x="0" y="0">XXXXXXXX</tspan></text>
+  <rect x="882.1" y="663.79" width="45.28" height="21.16" rx="3.57" ry="3.57" style="fill: #fff;"/>
+  <text transform="translate(888.54 678.12)" style="fill: #a6c626; font-family: ArialMT, Arial; font-size: 9.13px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(784.49 740.12)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <circle cx="653.31" cy="736.55" r="21.96" style="fill: #324e54;"/>
+  <text transform="translate(682.48 736.6)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 18px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(682.49 752.76)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 8.12px;"><tspan x="0" y="0">XXXXXXXX</tspan></text>
+  <rect x="882.1" y="725.79" width="45.28" height="21.16" rx="3.57" ry="3.57" style="fill: #fff;"/>
+  <text transform="translate(888.54 740.12)" style="fill: #a6c626; font-family: ArialMT, Arial; font-size: 9.13px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(784.49 804.12)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">$8,262.08</tspan></text>
+  <circle cx="653.31" cy="800.55" r="21.96" style="fill: #324e54;"/>
+  <text transform="translate(682.48 800.6)" style="fill: #8f9899; font-family: Arial-BoldMT, Arial; font-size: 18px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(682.49 816.76)" style="fill: #dbff43; font-family: ArialMT, Arial; font-size: 8.12px;"><tspan x="0" y="0">XXXXXXXX</tspan></text>
+  <rect x="882.1" y="789.79" width="45.28" height="21.16" rx="3.57" ry="3.57" style="fill: #fff;"/>
+  <text transform="translate(888.54 804.12)" style="fill: #a6c626; font-family: ArialMT, Arial; font-size: 9.13px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <text transform="translate(545.58 661.27)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 6.52px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(571.3 660.88)" style="fill: #324e54; font-family: Arial-BoldMT, Arial; font-size: 3.07px; font-weight: 700;"><tspan x="0" y="0">XXXX</tspan></text>
+  <text transform="translate(545.85 669.98)" style="fill: #878787; font-family: ArialMT, Arial; font-size: 5px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <circle cx="440.67" cy="664.68" r="9.34" style="fill: #dbff43;"/>
+  <text transform="translate(461.44 665.06)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 14.62px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(461.45 674.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(495.29 674.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <circle cx="448.16" cy="658.96" r="8.96" style="fill: #324e54;"/>
+  <text transform="translate(545.58 696.27)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 6.52px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(571.3 695.88)" style="fill: #324e54; font-family: Arial-BoldMT, Arial; font-size: 3.07px; font-weight: 700;"><tspan x="0" y="0">XXXX</tspan></text>
+  <text transform="translate(545.85 704.98)" style="fill: #878787; font-family: ArialMT, Arial; font-size: 5px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <circle cx="440.67" cy="699.68" r="9.34" style="fill: #dbff43;"/>
+  <text transform="translate(461.44 700.06)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 14.62px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(461.45 709.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(495.29 709.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <circle cx="448.16" cy="694.96" r="8.96" style="fill: #324e54;"/>
+  <text transform="translate(545.58 736.27)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 6.52px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(571.3 735.88)" style="fill: #324e54; font-family: Arial-BoldMT, Arial; font-size: 3.07px; font-weight: 700;"><tspan x="0" y="0">XXXX</tspan></text>
+  <text transform="translate(545.85 744.98)" style="fill: #878787; font-family: ArialMT, Arial; font-size: 5px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <circle cx="440.67" cy="739.68" r="9.34" style="fill: #dbff43;"/>
+  <text transform="translate(461.44 740.06)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 14.62px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(461.45 749.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(495.29 749.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <circle cx="448.16" cy="734.96" r="8.96" style="fill: #324e54;"/>
+  <text transform="translate(545.58 775.27)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 6.52px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(571.3 774.88)" style="fill: #324e54; font-family: Arial-BoldMT, Arial; font-size: 3.07px; font-weight: 700;"><tspan x="0" y="0">XXXX</tspan></text>
+  <text transform="translate(545.85 783.98)" style="fill: #878787; font-family: ArialMT, Arial; font-size: 5px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <circle cx="440.67" cy="778.68" r="9.34" style="fill: #dbff43;"/>
+  <text transform="translate(461.44 779.06)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 14.62px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(461.45 788.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(495.29 788.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <circle cx="448.16" cy="773.96" r="8.96" style="fill: #324e54;"/>
+  <text transform="translate(545.58 811.27)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 6.52px; font-weight: 700;"><tspan x="0" y="0">8,262.08</tspan></text>
+  <text transform="translate(571.3 810.88)" style="fill: #324e54; font-family: Arial-BoldMT, Arial; font-size: 3.07px; font-weight: 700;"><tspan x="0" y="0">XXXX</tspan></text>
+  <text transform="translate(545.85 819.98)" style="fill: #878787; font-family: ArialMT, Arial; font-size: 5px;"><tspan x="0" y="0">+1.90%</tspan></text>
+  <circle cx="440.67" cy="814.68" r="9.34" style="fill: #dbff43;"/>
+  <text transform="translate(461.44 815.06)" style="fill: #192f35; font-family: Arial-BoldMT, Arial; font-size: 14.62px; font-weight: 700;"><tspan x="0" y="0">XXX</tspan></text>
+  <text transform="translate(461.45 824.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <text transform="translate(495.29 824.42)" style="fill: #324e54; font-family: ArialMT, Arial; font-size: 4.7px;"><tspan x="0" y="0">XXXXXXXXX</tspan></text>
+  <circle cx="448.16" cy="809.96" r="8.96" style="fill: #324e54;"/>
+  <polyline points="796.84 584.02 802.97 579.08 805.69 581.55 806.71 576.19 811.59 571.6 814.71 576.02 817.95 581.47 819.99 567.85 825.95 565.3 826.8 555.94 832.84 557.98 838.88 571.94 849.78 569.21 851.14 558.49 861.86 547.77 863.22 558.49 871.73 560.87 872.59 556.11 880.07 551.85 883.65 543.99 891.99 564 893.86 555.26 904.76 547.77 908.67 550.83 918.54 547.08 921.1 535 930.46 531.6 933.35 523.77 940.67 520.02" style="fill: none; stroke: #dbff43; stroke-miterlimit: 10; stroke-width: 2px;"/>
+</svg>

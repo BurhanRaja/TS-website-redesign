@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_41" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 718.47">
+  <path d="M939.74,268.87v356.6c0,10.01-8.12,18.13-18.13,18.13H116.84c-10.01,0-18.13-8.12-18.13-18.13V85.72c0-10.01,8.12-18.12,18.13-18.12h611.49v.93l211.41,200.34Z" style="fill: #a6c626;"/>
+  <polygon points="939.74 268.87 939.74 269.3 728.33 269.3 728.33 68.53 939.74 268.87" style="fill: #84a00d;"/>
+  <polygon points="728.33 67.6 728.33 68.53 727.35 67.6 728.33 67.6" style="fill: #e0e0e0;"/>
+  <path d="M282.54,180.79c0,17.04-7.01,32.44-18.31,43.47-10.96,10.7-25.93,17.29-42.46,17.29s-31.93-6.78-42.93-17.76c-11.02-10.99-17.83-26.2-17.83-43,0-33.56,27.2-60.77,60.77-60.77s60.77,27.2,60.77,60.77Z" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  <circle cx="221.78" cy="158.68" r="22.11" style="fill: #84a00d;"/>
+  <path d="M262.67,220.81c-10.96,10.37-24.37,17.11-40.89,17.11s-29.81-6.34-40.81-16.98c2.81-20.4,18.72-34.45,40.54-34.45s38.56,13.7,41.16,34.32Z" style="fill: #84a00d;"/>
+  <line x1="161.01" y1="285.21" x2="471.99" y2="285.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  <line x1="161.01" y1="316.21" x2="471.99" y2="316.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  <line x1="161.01" y1="349.21" x2="471.99" y2="349.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  <line x1="161.01" y1="409.21" x2="876.41" y2="409.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="161.01" y1="439.21" x2="876.41" y2="439.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="161.01" y1="469.21" x2="876.41" y2="469.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="161.01" y1="500.21" x2="876.41" y2="500.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="161.01" y1="530.21" x2="876.41" y2="530.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="161.01" y1="559.21" x2="876.41" y2="559.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <line x1="161.01" y1="590.21" x2="876.41" y2="590.21" style="fill: none; stroke: #dbff43; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+</svg>

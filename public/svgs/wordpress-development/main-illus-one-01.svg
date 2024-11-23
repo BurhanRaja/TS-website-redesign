@@ -1,154 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_27" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
   <g>
-    <rect x="529.7" y="70.89" width="389.45" height="637.28" rx="13.79" ry="13.79" style="fill: #424242;"/>
-    <rect x="795.28" y="378.88" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
-    <rect x="805.24" y="392.39" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
-    <rect x="661.15" y="378.88" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
-    <rect x="670.13" y="392.39" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
-    <line x1="671.91" y1="486.92" x2="725.75" y2="486.92" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <line x1="671.91" y1="496.01" x2="747.99" y2="496.01" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <rect x="806.02" y="505.92" width="27.99" height="14.66" rx="2.3" ry="2.3" style="fill: #ea550f;"/>
-    <text transform="translate(815.95 514.6) scale(.98 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 4.55px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
-    <line x1="805.24" y1="486.92" x2="859.09" y2="486.92" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <line x1="805.24" y1="496.01" x2="881.33" y2="496.01" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <rect x="795.28" y="542.44" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
-    <rect x="805.24" y="555.94" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
-    <rect x="661.15" y="542.44" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
-    <rect x="670.13" y="555.94" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
-    <line x1="671.91" y1="650.47" x2="725.75" y2="650.47" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <line x1="671.91" y1="659.56" x2="747.99" y2="659.56" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <rect x="806.02" y="669.47" width="27.99" height="14.66" rx="2.3" ry="2.3" style="fill: #ea550f;"/>
-    <text transform="translate(815.95 678.16) scale(.98 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 4.55px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
-    <line x1="805.24" y1="650.47" x2="859.09" y2="650.47" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <line x1="805.24" y1="659.56" x2="881.33" y2="659.56" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
-    <rect x="543.92" y="134.79" width="358.71" height="223.15" rx="6.4" ry="6.4" style="fill: #fff;"/>
-    <rect x="892.46" y="153.94" width="19.06" height="173.11" rx="2.55" ry="2.55" style="fill: #ea550f;"/>
-    <rect x="536.01" y="153.94" width="19.06" height="173.11" rx="2.55" ry="2.55" style="fill: #ea550f;"/>
-    <polyline points="548.44 229.77 540.95 237.94 548.44 245.35" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <polyline points="897.4 229.77 904.89 237.94 897.4 245.35" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <path d="M541.7,70.89h365.45c6.62,0,12,5.38,12,12v25.02h-389.45v-25.02c0-6.62,5.38-12,12-12Z" style="fill: #686868;"/>
-    <text transform="translate(546.61 94.17) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Education</tspan></text>
-    <rect x="663.53" y="81.34" width="160.15" height="16.12" rx="2.3" ry="2.3" style="fill: #fff;"/>
-    <rect x="832.69" y="81.62" width="27.99" height="16.12" rx="2.3" ry="2.3" style="fill: #a6c626;"/>
-    <rect x="868.24" y="81.62" width="27.99" height="16.12" rx="2.3" ry="2.3" style="fill: #ea550f;"/>
+    <rect x="570.84" y="85.08" width="389.45" height="637.28" rx="13.79" ry="13.79" style="fill: #ddd;"/>
+    <rect x="836.41" y="393.07" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
+    <rect x="846.38" y="406.57" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
+    <rect x="702.28" y="393.07" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
+    <rect x="711.26" y="406.57" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
+    <line x1="713.04" y1="501.11" x2="766.89" y2="501.11" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <line x1="713.04" y1="510.2" x2="789.13" y2="510.2" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <rect x="847.15" y="520.11" width="27.99" height="14.66" rx="2.3" ry="2.3" style="fill: #ea550f;"/>
+    <text transform="translate(857.08 528.79) scale(.98 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 4.55px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
+    <line x1="846.38" y1="501.11" x2="900.22" y2="501.11" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <line x1="846.38" y1="510.2" x2="922.46" y2="510.2" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <rect x="836.41" y="556.62" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
+    <rect x="846.38" y="570.13" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
+    <rect x="702.28" y="556.62" width="97.18" height="146.79" rx="6.89" ry="6.89" style="fill: #e2e2e2;"/>
+    <rect x="711.26" y="570.13" width="79.22" height="81.02" rx="6.89" ry="6.89" style="fill: #a6c626;"/>
+    <line x1="713.04" y1="664.66" x2="766.89" y2="664.66" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <line x1="713.04" y1="673.75" x2="789.13" y2="673.75" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <rect x="847.15" y="683.66" width="27.99" height="14.66" rx="2.3" ry="2.3" style="fill: #ea550f;"/>
+    <text transform="translate(857.08 692.34) scale(.98 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 4.55px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
+    <line x1="846.38" y1="664.66" x2="900.22" y2="664.66" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <line x1="846.38" y1="673.75" x2="922.46" y2="673.75" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <rect x="585.05" y="148.98" width="358.71" height="223.15" rx="6.4" ry="6.4" style="fill: #fff;"/>
+    <rect x="933.59" y="168.13" width="19.06" height="173.11" rx="2.55" ry="2.55" style="fill: #ea550f;"/>
+    <rect x="577.14" y="168.13" width="19.06" height="173.11" rx="2.55" ry="2.55" style="fill: #ea550f;"/>
+    <polyline points="589.57 243.96 582.08 252.13 589.57 259.53" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <polyline points="938.53 243.96 946.02 252.13 938.53 259.53" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <path d="M582.84,85.08h365.45c6.62,0,12,5.38,12,12v25.02h-389.45v-25.02c0-6.62,5.38-12,12-12Z" style="fill: #686868;"/>
+    <text transform="translate(587.75 108.36) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Education</tspan></text>
+    <rect x="704.66" y="95.53" width="160.15" height="16.12" rx="2.3" ry="2.3" style="fill: #fff;"/>
+    <rect x="873.82" y="95.8" width="27.99" height="16.12" rx="2.3" ry="2.3" style="fill: #a6c626;"/>
+    <rect x="909.37" y="95.8" width="27.99" height="16.12" rx="2.3" ry="2.3" style="fill: #ea550f;"/>
     <g>
-      <ellipse cx="669.58" cy="89.02" rx="2.74" ry="3.08" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
-      <path d="M673.01,92.87l-1.47-1.66" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
+      <ellipse cx="710.72" cy="103.2" rx="2.74" ry="3.08" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
+      <path d="M714.14,107.05l-1.47-1.66" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
     </g>
-    <text transform="translate(837.28 91.17) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.03em;">R</tspan><tspan x="3.14" y="0">egister</tspan></text>
-    <text transform="translate(875.5 91.17) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Login</tspan></text>
-    <rect x="578.22" y="156.7" width="290.02" height="178.93" rx="12.43" ry="12.43" style="fill: #c9c9c9;"/>
+    <text transform="translate(878.41 105.36) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.03em;">R</tspan><tspan x="3.14" y="0">egister</tspan></text>
+    <text transform="translate(916.64 105.36) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Login</tspan></text>
+    <rect x="619.35" y="170.89" width="290.02" height="178.93" rx="12.43" ry="12.43" style="fill: #c9c9c9;"/>
   </g>
   <g>
-    <path d="M503.11,159.09v609.7c0,7.62-5.48,13.79-12.24,13.79H126.1c-6.76,0-12.24-6.17-12.24-13.79V159.09c0-7.61,5.48-13.78,12.24-13.78h364.76c6.76,0,12.24,6.17,12.24,13.78Z" style="fill: #848484;"/>
-    <rect x="135.68" y="453.6" width="350.52" height="80.9" rx="6.31" ry="6.31" style="fill: #bcbcbc;"/>
-    <path d="M141.82,453.6h101.86v80.9h-101.86c-3.39,0-6.14-2.75-6.14-6.14v-68.62c0-3.39,2.75-6.14,6.14-6.14Z" style="fill: #ea550f;"/>
-    <rect x="135.68" y="563.76" width="350.52" height="80.9" rx="6.31" ry="6.31" style="fill: #bcbcbc;"/>
-    <path d="M141.82,563.76h101.86v80.9h-101.86c-3.39,0-6.14-2.75-6.14-6.14v-68.62c0-3.39,2.75-6.14,6.14-6.14Z" style="fill: #ea550f;"/>
-    <rect x="135.68" y="675.76" width="350.52" height="80.9" rx="6.31" ry="6.31" style="fill: #bcbcbc;"/>
-    <path d="M141.82,675.76h101.86v80.9h-101.86c-3.39,0-6.14-2.75-6.14-6.14v-68.62c0-3.39,2.75-6.14,6.14-6.14Z" style="fill: #ea550f;"/>
-    <rect x="128.32" y="198.11" width="358.54" height="223.15" rx="6.4" ry="6.4" style="fill: #fff;"/>
-    <rect x="476.68" y="217.26" width="19.05" height="173.11" rx="2.55" ry="2.55" style="fill: #a6c626;"/>
-    <path d="M125.85,145.3h365.26c6.62,0,12,5.38,12,12v25.02H113.85v-25.02c0-6.62,5.38-12,12-12Z" style="fill: #3a3a3a;"/>
-    <text transform="translate(129.91 170.29) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">E-commerce</tspan></text>
-    <path d="M462.39,156.84h1.33l1.77,9.31c.13.7.69,1.2,1.33,1.18h6.51c.62,0,1.16-.49,1.3-1.18l1.1-5.57h-11.3" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <rect x="232.72" y="156.7" width="191.91" height="16.12" rx="2.3" ry="2.3" style="fill: #fff;"/>
+    <path d="M464.24,173.27v609.7c0,7.62-5.48,13.79-12.24,13.79H87.23c-6.76,0-12.24-6.17-12.24-13.79V173.27c0-7.61,5.48-13.78,12.24-13.78h364.76c6.76,0,12.24,6.17,12.24,13.78Z" style="fill: #e0e0e0;"/>
+    <rect x="96.82" y="467.79" width="350.52" height="80.9" rx="6.31" ry="6.31" style="fill: #bcbcbc;"/>
+    <path d="M102.96,467.79h101.86v80.9h-101.86c-3.39,0-6.14-2.75-6.14-6.14v-68.62c0-3.39,2.75-6.14,6.14-6.14Z" style="fill: #ea550f;"/>
+    <rect x="96.82" y="577.95" width="350.52" height="80.9" rx="6.31" ry="6.31" style="fill: #bcbcbc;"/>
+    <path d="M102.96,577.95h101.86v80.9h-101.86c-3.39,0-6.14-2.75-6.14-6.14v-68.62c0-3.39,2.75-6.14,6.14-6.14Z" style="fill: #ea550f;"/>
+    <rect x="96.82" y="689.95" width="350.52" height="80.9" rx="6.31" ry="6.31" style="fill: #bcbcbc;"/>
+    <path d="M102.96,689.95h101.86v80.9h-101.86c-3.39,0-6.14-2.75-6.14-6.14v-68.62c0-3.39,2.75-6.14,6.14-6.14Z" style="fill: #ea550f;"/>
+    <rect x="89.45" y="212.3" width="358.54" height="223.15" rx="6.4" ry="6.4" style="fill: #fff;"/>
+    <rect x="437.81" y="231.45" width="19.05" height="173.11" rx="2.55" ry="2.55" style="fill: #a6c626;"/>
+    <path d="M86.98,159.49h365.26c6.62,0,12,5.38,12,12v25.02H74.98v-25.02c0-6.62,5.38-12,12-12Z" style="fill: #3a3a3a;"/>
+    <text transform="translate(91.05 184.47) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">E-commerce</tspan></text>
+    <path d="M423.52,171.02h1.33l1.77,9.31c.13.7.69,1.2,1.33,1.18h6.51c.62,0,1.16-.49,1.3-1.18l1.1-5.57h-11.3" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <rect x="193.85" y="170.89" width="191.91" height="16.12" rx="2.3" ry="2.3" style="fill: #fff;"/>
     <g>
-      <ellipse cx="238.77" cy="164.38" rx="2.74" ry="3.08" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
-      <path d="M242.19,168.23l-1.47-1.66" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
+      <ellipse cx="199.9" cy="178.57" rx="2.74" ry="3.08" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
+      <path d="M203.32,182.42l-1.47-1.66" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
     </g>
-    <rect x="120.41" y="217.26" width="19.05" height="173.11" rx="2.55" ry="2.55" style="fill: #a6c626;"/>
-    <polyline points="132.83 293.09 125.34 301.26 132.83 308.66" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <polyline points="481.62 293.09 489.1 301.26 481.62 308.66" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <line x1="256.8" y1="473.87" x2="355.7" y2="473.87" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
-    <rect x="256.8" y="508.22" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #fcfcfc;"/>
-    <rect x="301.22" y="508.22" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #a6c626;"/>
-    <text transform="translate(313.83 516.87) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 6px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
-    <text transform="translate(262.3 516.46) scale(.89 1)" style="fill: #494949; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5.04px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Add </tspan><tspan x="11.38" y="0" style="letter-spacing: -.1em;">T</tspan><tspan x="13.87" y="0">o Cart</tspan></text>
-    <line x1="256.8" y1="583.87" x2="355.7" y2="583.87" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
-    <rect x="256.8" y="618.22" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #fcfcfc;"/>
-    <rect x="301.22" y="618.22" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #a6c626;"/>
-    <text transform="translate(313.83 626.87) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 6px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
-    <text transform="translate(262.3 626.46) scale(.89 1)" style="fill: #494949; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5.04px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Add </tspan><tspan x="11.38" y="0" style="letter-spacing: -.1em;">T</tspan><tspan x="13.87" y="0">o Cart</tspan></text>
-    <line x1="256.8" y1="693.87" x2="355.7" y2="693.87" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
-    <rect x="256.8" y="728.22" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #fcfcfc;"/>
-    <rect x="301.22" y="728.22" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #a6c626;"/>
-    <text transform="translate(313.83 736.87) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 6px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
-    <text transform="translate(262.3 736.46) scale(.89 1)" style="fill: #494949; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5.04px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Add </tspan><tspan x="11.38" y="0" style="letter-spacing: -.1em;">T</tspan><tspan x="13.87" y="0">o Cart</tspan></text>
-    <ellipse cx="466.34" cy="170.18" rx=".67" ry=".75" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <ellipse cx="473.67" cy="170.18" rx=".67" ry=".75" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
-    <line x1="170.57" y1="283.32" x2="273.34" y2="283.32" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 9px;"/>
-    <line x1="170.57" y1="263.32" x2="329.72" y2="263.32" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 9px;"/>
-    <line x1="170.57" y1="313.32" x2="273.34" y2="313.32" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="170.57" y1="323.32" x2="273.34" y2="323.32" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="355.7" y="243.56" width="100.53" height="134.42" rx="11.01" ry="11.01" style="fill: #d3d3d3;"/>
-    <line x1="170.57" y1="333.32" x2="273.34" y2="333.32" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="170.57" y1="343.32" x2="273.34" y2="343.32" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="81.54" y="231.45" width="19.05" height="173.11" rx="2.55" ry="2.55" style="fill: #a6c626;"/>
+    <polyline points="93.96 307.27 86.48 315.45 93.96 322.85" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <polyline points="442.75 307.27 450.23 315.45 442.75 322.85" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <line x1="217.93" y1="488.06" x2="316.83" y2="488.06" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+    <rect x="217.93" y="522.4" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #fcfcfc;"/>
+    <rect x="262.35" y="522.4" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #a6c626;"/>
+    <text transform="translate(274.96 531.06) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 6px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
+    <text transform="translate(223.43 530.65) scale(.89 1)" style="fill: #494949; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5.04px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Add </tspan><tspan x="11.38" y="0" style="letter-spacing: -.1em;">T</tspan><tspan x="13.87" y="0" style="letter-spacing: 0em;">o Cart</tspan></text>
+    <line x1="217.93" y1="598.06" x2="316.83" y2="598.06" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+    <rect x="217.93" y="632.4" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #fcfcfc;"/>
+    <rect x="262.35" y="632.4" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #a6c626;"/>
+    <text transform="translate(274.96 641.06) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 6px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
+    <text transform="translate(223.43 640.65) scale(.89 1)" style="fill: #494949; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5.04px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Add </tspan><tspan x="11.38" y="0" style="letter-spacing: -.1em;">T</tspan><tspan x="13.87" y="0" style="letter-spacing: 0em;">o Cart</tspan></text>
+    <line x1="217.93" y1="708.06" x2="316.83" y2="708.06" style="fill: none; stroke: #fcfcfc; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+    <rect x="217.93" y="742.4" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #fcfcfc;"/>
+    <rect x="262.35" y="742.4" width="37.09" height="12.91" rx="2.69" ry="2.69" style="fill: #a6c626;"/>
+    <text transform="translate(274.96 751.06) scale(.89 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 6px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Buy</tspan></text>
+    <text transform="translate(223.43 750.65) scale(.89 1)" style="fill: #494949; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 5.04px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Add </tspan><tspan x="11.38" y="0" style="letter-spacing: -.1em;">T</tspan><tspan x="13.87" y="0" style="letter-spacing: 0em;">o Cart</tspan></text>
+    <ellipse cx="427.48" cy="184.37" rx=".67" ry=".75" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <ellipse cx="434.8" cy="184.37" rx=".67" ry=".75" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    <line x1="131.71" y1="297.51" x2="234.48" y2="297.51" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 9px;"/>
+    <line x1="131.71" y1="277.51" x2="290.86" y2="277.51" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 9px;"/>
+    <line x1="131.71" y1="327.51" x2="234.48" y2="327.51" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="131.71" y1="337.51" x2="234.48" y2="337.51" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="316.83" y="257.75" width="100.53" height="134.42" rx="11.01" ry="11.01" style="fill: #d3d3d3;"/>
+    <line x1="131.71" y1="347.51" x2="234.48" y2="347.51" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="131.71" y1="357.51" x2="234.48" y2="357.51" style="fill: none; stroke: #c9c9c9; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
   </g>
   <g>
-    <rect x="335.49" y="308.02" width="396.6" height="637.28" rx="13.79" ry="13.79" style="fill: #efefef;"/>
-    <rect x="373.09" y="387.09" width="183.04" height="177.7" rx="6.89" ry="6.89" style="fill: #ea550f;"/>
-    <line x1="578.22" y1="413.94" x2="706.26" y2="413.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 12px;"/>
-    <line x1="578.22" y1="433.94" x2="662.35" y2="433.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 12px;"/>
-    <line x1="578.22" y1="463.94" x2="706.26" y2="463.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="473.94" x2="706.26" y2="473.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="483.94" x2="706.26" y2="483.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="493.94" x2="706.26" y2="493.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="513.94" x2="706.26" y2="513.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="523.94" x2="706.26" y2="523.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="533.94" x2="706.26" y2="533.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="543.94" x2="706.26" y2="543.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <line x1="578.22" y1="503.94" x2="706.26" y2="503.94" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-    <path d="M347.49,308.02h372.6c6.62,0,12,5.38,12,12v25.02h-396.6v-25.02c0-6.62,5.38-12,12-12Z" style="fill: #686868;"/>
-    <text transform="translate(355.46 332.34) scale(.91 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Blog</tspan></text>
-    <text transform="translate(355.46 332.34) scale(.91 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Blog</tspan></text>
-    <rect x="370.35" y="607.21" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
-    <rect x="379.69" y="617.47" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
-    <line x1="449.24" y1="623.85" x2="516.74" y2="623.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
-    <line x1="449.24" y1="637.85" x2="516.74" y2="637.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="644.85" x2="516.74" y2="644.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="651.85" x2="516.74" y2="651.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="658.85" x2="516.74" y2="658.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="542.34" y="607.21" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
-    <rect x="551.68" y="617.47" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
-    <line x1="621.23" y1="623.85" x2="688.73" y2="623.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
-    <line x1="621.23" y1="637.85" x2="688.73" y2="637.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="644.85" x2="688.73" y2="644.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="651.85" x2="688.73" y2="651.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="658.85" x2="688.73" y2="658.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="370.35" y="707.21" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
-    <rect x="379.69" y="717.47" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
-    <line x1="449.24" y1="723.85" x2="516.74" y2="723.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
-    <line x1="449.24" y1="737.85" x2="516.74" y2="737.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="744.85" x2="516.74" y2="744.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="751.85" x2="516.74" y2="751.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="758.85" x2="516.74" y2="758.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="542.34" y="707.21" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
-    <rect x="551.68" y="717.47" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
-    <line x1="621.23" y1="723.85" x2="688.73" y2="723.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
-    <line x1="621.23" y1="737.85" x2="688.73" y2="737.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="744.85" x2="688.73" y2="744.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="751.85" x2="688.73" y2="751.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="758.85" x2="688.73" y2="758.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="370.35" y="802.21" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
-    <rect x="379.69" y="812.47" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
-    <line x1="449.24" y1="818.85" x2="516.74" y2="818.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
-    <line x1="449.24" y1="832.85" x2="516.74" y2="832.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="839.85" x2="516.74" y2="839.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="846.85" x2="516.74" y2="846.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="449.24" y1="853.85" x2="516.74" y2="853.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="542.34" y="802.21" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
-    <rect x="551.68" y="812.47" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
-    <line x1="621.23" y1="818.85" x2="688.73" y2="818.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
-    <line x1="621.23" y1="832.85" x2="688.73" y2="832.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="839.85" x2="688.73" y2="839.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="846.85" x2="688.73" y2="846.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <line x1="621.23" y1="853.85" x2="688.73" y2="853.85" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
-    <rect x="510.74" y="319.51" width="195.52" height="16.12" rx="2.3" ry="2.3" style="fill: #fff;"/>
+    <rect x="336.62" y="322.21" width="396.6" height="637.28" rx="13.79" ry="13.79" style="fill: #f2f2f2;"/>
+    <rect x="374.22" y="401.27" width="183.04" height="177.7" rx="6.89" ry="6.89" style="fill: #ea550f;"/>
+    <line x1="579.35" y1="428.13" x2="707.39" y2="428.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 12px;"/>
+    <line x1="579.35" y1="448.13" x2="663.48" y2="448.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 12px;"/>
+    <line x1="579.35" y1="478.13" x2="707.39" y2="478.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="488.13" x2="707.39" y2="488.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="498.13" x2="707.39" y2="498.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="508.13" x2="707.39" y2="508.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="528.13" x2="707.39" y2="528.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="538.13" x2="707.39" y2="538.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="548.13" x2="707.39" y2="548.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="558.13" x2="707.39" y2="558.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <line x1="579.35" y1="518.13" x2="707.39" y2="518.13" style="fill: none; stroke: #686868; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <path d="M348.62,322.21h372.6c6.62,0,12,5.38,12,12v25.02h-396.6v-25.02c0-6.62,5.38-12,12-12Z" style="fill: #686868;"/>
+    <text transform="translate(356.6 346.53) scale(.91 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Blog</tspan></text>
+    <text transform="translate(356.6 346.53) scale(.91 1)" style="fill: #fff; font-family: SegoeUIVariable-BoldSmall, &apos;Segoe UI Variable&apos;; font-size: 14px; font-variation-settings: &apos;wght&apos; 700, &apos;opsz&apos; 8; font-weight: 700;"><tspan x="0" y="0">Blog</tspan></text>
+    <rect x="371.48" y="621.4" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
+    <rect x="380.83" y="631.66" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
+    <line x1="450.37" y1="638.04" x2="517.88" y2="638.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <line x1="450.37" y1="652.04" x2="517.88" y2="652.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="659.04" x2="517.88" y2="659.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="666.04" x2="517.88" y2="666.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="673.04" x2="517.88" y2="673.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="543.47" y="621.4" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
+    <rect x="552.81" y="631.66" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
+    <line x1="622.36" y1="638.04" x2="689.87" y2="638.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <line x1="622.36" y1="652.04" x2="689.87" y2="652.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="659.04" x2="689.87" y2="659.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="666.04" x2="689.87" y2="666.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="673.04" x2="689.87" y2="673.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="371.48" y="721.4" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
+    <rect x="380.83" y="731.66" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
+    <line x1="450.37" y1="738.04" x2="517.88" y2="738.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <line x1="450.37" y1="752.04" x2="517.88" y2="752.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="759.04" x2="517.88" y2="759.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="766.04" x2="517.88" y2="766.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="773.04" x2="517.88" y2="773.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="543.47" y="721.4" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
+    <rect x="552.81" y="731.66" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
+    <line x1="622.36" y1="738.04" x2="689.87" y2="738.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <line x1="622.36" y1="752.04" x2="689.87" y2="752.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="759.04" x2="689.87" y2="759.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="766.04" x2="689.87" y2="766.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="773.04" x2="689.87" y2="773.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="371.48" y="816.4" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
+    <rect x="380.83" y="826.66" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
+    <line x1="450.37" y1="833.04" x2="517.88" y2="833.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <line x1="450.37" y1="847.04" x2="517.88" y2="847.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="854.04" x2="517.88" y2="854.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="861.04" x2="517.88" y2="861.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="450.37" y1="868.04" x2="517.88" y2="868.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="543.47" y="816.4" width="157.78" height="75.06" rx="6.31" ry="6.31" style="fill: #e2e2e2;"/>
+    <rect x="552.81" y="826.66" width="61.71" height="54.38" rx="2.89" ry="2.89" style="fill: #a6c626;"/>
+    <line x1="622.36" y1="833.04" x2="689.87" y2="833.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <line x1="622.36" y1="847.04" x2="689.87" y2="847.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="854.04" x2="689.87" y2="854.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="861.04" x2="689.87" y2="861.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <line x1="622.36" y1="868.04" x2="689.87" y2="868.04" style="fill: none; stroke: #b7b7b7; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <rect x="511.87" y="333.7" width="195.52" height="16.12" rx="2.3" ry="2.3" style="fill: #fff;"/>
     <g>
-      <ellipse cx="516.9" cy="327.19" rx="2.79" ry="3.08" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
-      <path d="M520.39,331.04l-1.5-1.66" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
+      <ellipse cx="518.03" cy="341.37" rx="2.79" ry="3.08" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
+      <path d="M521.52,345.23l-1.5-1.66" style="fill: none; stroke: #6d6d6d; stroke-linecap: round; stroke-linejoin: round;"/>
     </g>
   </g>
 </svg>
