@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="67.83" y="130.11" width="902.3" height="784.34" rx="12" ry="12" style="fill: #fff;"/>
+  <path d="M79.83,130.11h878.3c6.62,0,12,5.38,12,12v59.23H67.83v-59.23c0-6.62,5.38-12,12-12Z" style="fill: #192f35;"/>
+  <polyline points="137.36 861.3 401.87 861.3 401.87 680.53 664.34 680.53 664.34 509.98 909.45 509.98" style="fill: none; stroke: #192f35; stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+  <rect x="169.34" y="601.89" width="181.79" height="222.64" rx="12" ry="12" style="fill: #ea550f;"/>
+  <rect x="436.51" y="421.02" width="181.79" height="222.64" rx="12" ry="12" style="fill: #a6c626;"/>
+  <rect x="694.85" y="250.44" width="181.79" height="222.64" rx="12" ry="12" style="fill: #ea550f;"/>
+  <line x1="189.57" y1="629.51" x2="271.62" y2="629.51" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <line x1="189.57" y1="639.51" x2="302.26" y2="639.51" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <line x1="189.57" y1="649.51" x2="327.58" y2="649.51" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <circle cx="864.51" cy="165.36" r="15.83" style="fill: #fff;"/>
+  <circle cx="904.51" cy="165.36" r="15.83" style="fill: #fff;"/>
+  <rect x="181.83" y="675.04" width="156.26" height="131.06" rx="12" ry="12" style="fill: #fc7038;"/>
+  <line x1="715.36" y1="273.46" x2="797.4" y2="273.46" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <line x1="715.36" y1="283.46" x2="828.04" y2="283.46" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <line x1="715.36" y1="293.46" x2="853.37" y2="293.46" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <rect x="707.62" y="318.99" width="156.26" height="131.06" rx="12" ry="12" style="fill: #fc7038;"/>
+  <line x1="457.02" y1="444.04" x2="539.06" y2="444.04" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <line x1="457.02" y1="454.04" x2="569.7" y2="454.04" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <line x1="457.02" y1="464.04" x2="595.03" y2="464.04" style="fill: #fff; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <rect x="449.28" y="489.57" width="156.26" height="131.06" rx="12" ry="12" style="fill: #bfdd3e;"/>
+  <polyline points="306.06 698.59 321.14 693.45 323.04 707.79" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 6px;"/>
+  <polyline points="197.43 780.85 223.34 739.57 248.69 760.21 273.44 721.7 295.17 739.57 320.52 693.94" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 6px;"/>
+  <rect x="471.64" y="548.49" width="22.51" height="60.26" rx="2.83" ry="2.83" style="fill: #fff;"/>
+  <rect x="501.64" y="532.34" width="22.51" height="76.4" rx="2.83" ry="2.83" style="fill: #fff;"/>
+  <rect x="531.64" y="512" width="22.51" height="96.74" rx="2.83" ry="2.83" style="fill: #fff;"/>
+  <rect x="561.64" y="538.79" width="22.51" height="69.96" rx="2.83" ry="2.83" style="fill: #fff;"/>
+  <polyline points="718 397.26 736.72 414.28 760.55 380.91 774.17 395.89 806.17 353.68 830 411.89 851.68 378.19" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px;"/>
+  <circle cx="717.34" cy="395.91" r="4.28" style="fill: #a6c626;"/>
+  <circle cx="737.08" cy="413.11" r="4.28" style="fill: #a6c626;"/>
+  <circle cx="760.4" cy="381.45" r="4.28" style="fill: #a6c626;"/>
+  <circle cx="774.02" cy="394.38" r="4.28" style="fill: #a6c626;"/>
+  <circle cx="806.41" cy="355.19" r="4.28" style="fill: #a6c626;"/>
+  <circle cx="829.9" cy="410.85" r="4.28" style="fill: #a6c626;"/>
+  <circle cx="851.68" cy="378" r="4.28" style="fill: #a6c626;"/>
+</svg>
