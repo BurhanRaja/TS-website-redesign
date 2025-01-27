@@ -274,3 +274,64 @@ webDesignHeroRectBlackCrossLineTwo.style.strokeDasharray =
 webDesignHeroRectBlackCrossLineTwo.style.strokeDashoffset =
   webDesignHeroRectBlackCrossLineTwoLength;
 // --------------------------------- Web Design Hero SVG Animation - End ----------------------------------
+
+// --------------------------------- First Illustration (CRM Dashboard) - Start --------------------------
+
+const crmDashSvgHeroCircleOne = document.querySelector("#crm_dash_svg_hero_circle_one");
+const crmDashSvgHeroCircleOneLength = crmDashSvgHeroCircleOne?.getTotalLength();
+crmDashSvgHeroCircleOne.style.strokeDasharray = crmDashSvgHeroCircleOneLength;
+crmDashSvgHeroCircleOne.style.strokeDashoffset = crmDashSvgHeroCircleOneLength;
+
+const crmDashSvgHeroCardTwoLineOne = document.querySelector("#crm_dash_svg_hero_card_two_line_one");
+const crmDashSvgHeroCardTwoLineOneLength = crmDashSvgHeroCardTwoLineOne?.getTotalLength();
+crmDashSvgHeroCardTwoLineOne.style.strokeDasharray = crmDashSvgHeroCardTwoLineOneLength;
+crmDashSvgHeroCardTwoLineOne.style.strokeDashoffset = crmDashSvgHeroCardTwoLineOneLength;
+
+const crmDashSvgHeroCardTwoLineTwo = document.querySelector("#crm_dash_svg_hero_card_two_line_two");
+const crmDashSvgHeroCardTwoLineTwoLength = crmDashSvgHeroCardTwoLineTwo?.getTotalLength();
+crmDashSvgHeroCardTwoLineTwo.style.strokeDasharray = crmDashSvgHeroCardTwoLineTwoLength;
+crmDashSvgHeroCardTwoLineTwo.style.strokeDashoffset = crmDashSvgHeroCardTwoLineTwoLength;
+
+const crmDashSvgHeroCardTwoLineThree = document.querySelector("#crm_dash_svg_hero_card_two_line_three");
+const crmDashSvgHeroCardTwoLineThreeLength = crmDashSvgHeroCardTwoLineThree?.getTotalLength();
+crmDashSvgHeroCardTwoLineThree.style.strokeDasharray = crmDashSvgHeroCardTwoLineThreeLength;
+crmDashSvgHeroCardTwoLineThree.style.strokeDashoffset = crmDashSvgHeroCardTwoLineThreeLength;
+
+const crmDashSvgHeroCardTwoLineFour = document.querySelector("#crm_dash_svg_hero_card_two_line_four");
+const crmDashSvgHeroCardTwoLineFourLength = crmDashSvgHeroCardTwoLineFour?.getTotalLength();
+crmDashSvgHeroCardTwoLineFour.style.strokeDasharray = crmDashSvgHeroCardTwoLineFourLength;
+crmDashSvgHeroCardTwoLineFour.style.strokeDashoffset = crmDashSvgHeroCardTwoLineFourLength;
+
+const crmDashSvgHeroCardTwoLineFive = document.querySelector("#crm_dash_svg_hero_card_two_line_five");
+const crmDashSvgHeroCardTwoLineFiveLength = crmDashSvgHeroCardTwoLineFive?.getTotalLength();
+crmDashSvgHeroCardTwoLineFive.style.strokeDasharray = crmDashSvgHeroCardTwoLineFiveLength;
+crmDashSvgHeroCardTwoLineFive.style.strokeDashoffset = crmDashSvgHeroCardTwoLineFiveLength;
+
+const crmDashSvgHeroCardTwoLineSix = document.querySelector("#crm_dash_svg_hero_card_two_line_six");
+const crmDashSvgHeroCardTwoLineSixLength = crmDashSvgHeroCardTwoLineSix?.getTotalLength();
+crmDashSvgHeroCardTwoLineSix.style.strokeDasharray = crmDashSvgHeroCardTwoLineSixLength;
+crmDashSvgHeroCardTwoLineSix.style.strokeDashoffset = crmDashSvgHeroCardTwoLineSixLength;
+
+const crmDashSvgHeroCardTwoLineSeven = document.querySelector("#crm_dash_svg_hero_card_two_line_seven");
+const crmDashSvgHeroCardTwoLineSevenLength = crmDashSvgHeroCardTwoLineSeven?.getTotalLength();
+crmDashSvgHeroCardTwoLineSeven.style.strokeDasharray = crmDashSvgHeroCardTwoLineSevenLength;
+crmDashSvgHeroCardTwoLineSeven.style.strokeDashoffset = crmDashSvgHeroCardTwoLineSevenLength;
+
+const crmDashSvgHeroCardTwoLineEight = document.querySelector("#crm_dash_svg_hero_card_two_line_eight");
+const crmDashSvgHeroCardTwoLineEightLength = crmDashSvgHeroCardTwoLineEight?.getTotalLength();
+crmDashSvgHeroCardTwoLineEight.style.strokeDasharray = crmDashSvgHeroCardTwoLineEightLength;
+crmDashSvgHeroCardTwoLineEight.style.strokeDashoffset = crmDashSvgHeroCardTwoLineEightLength;
+
+const crmDashSvgHeroCardTwoLineNine = document.querySelector("#crm_dash_svg_hero_card_two_line_nine");
+const crmDashSvgHeroCardTwoLineNineLength = crmDashSvgHeroCardTwoLineNine?.getTotalLength();
+crmDashSvgHeroCardTwoLineNine.style.strokeDasharray = crmDashSvgHeroCardTwoLineNineLength;
+crmDashSvgHeroCardTwoLineNine.style.strokeDashoffset = crmDashSvgHeroCardTwoLineNineLength;
+
+const crmDashSvgHeroCardTwoLineTen = document.querySelector("#crm_dash_svg_hero_card_two_line_ten");
+const crmDashSvgHeroCardTwoLineTenLength = crmDashSvgHeroCardTwoLineTen?.getTotalLength();
+crmDashSvgHeroCardTwoLineTen.style.strokeDasharray = crmDashSvgHeroCardTwoLineTenLength;
+crmDashSvgHeroCardTwoLineTen.style.strokeDashoffset = crmDashSvgHeroCardTwoLineTenLength;
+
+// 
+
+// --------------------------------- First Illustration (CRM Dashboard) - End --------------------------

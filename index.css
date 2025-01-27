@@ -973,6 +973,289 @@ body {
   opacity: 1;
   height: 100%;
 }
+
+#crm_dash_svg_hero_black_sidebar {
+  transition: all ease;
+  transition-duration: 1.5s;
+  transition-delay: 3.5s;
+  transform: translateX(-50px);
+  opacity: 0;
+  width: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 100%;
+}
+
+#crm_dash_svg_hero_black_sidebar_el_one {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 4s;
+  transform: translateX(-30px);
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_one {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 67px;
+}
+
+#crm_dash_svg_hero_black_sidebar_el_two,
+#crm_dash_svg_hero_black_sidebar_el_two_text {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 4.5s;
+  transform: translateX(-30px);
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_two,
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_two_text {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 67px;
+}
+
+#crm_dash_svg_hero_black_sidebar_el_three {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 5s;
+  transform: translateX(-30px);
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_three {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 67px;
+}
+
+#crm_dash_svg_hero_black_sidebar_el_four {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 5.5s;
+  transform: translateX(-30px);
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_four {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 67px;
+}
+
+#crm_dash_svg_hero_black_sidebar_el_five {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 6s;
+  transform: translateX(-30px);
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_five {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 67px;
+}
+
+#crm_dash_svg_hero_black_sidebar_el_six {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 6.5s;
+  transform: translateX(-30px);
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_black_sidebar_el_six {
+  transform: translateX(0px);
+  opacity: 1;
+  width: 67px;
+}
+
+#crm_dash_svg_hero_header {
+  transition: all ease;
+  transition-duration: 1s;
+  transition-delay: 4s;
+  transform: translateY(-30px);
+  height: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_header {
+  transform: translateY(0px);
+  height: 100%;
+  opacity: 1;
+}
+
+#crm_dash_svg_hero_header_circle {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 4.3s;
+  scale: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_header_circle {
+  transform: translateY(0px);
+  scale: 1;
+  opacity: 1;
+}
+
+#crm_dash_svg_hero_header_rect {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 4.5s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_header_rect {
+  width: 113px;
+  opacity: 1;
+}
+
+#crm_dash_svg_hero_card_one {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 4.5s;
+  transform: translateY(-30px);
+  height: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_one {
+  transform: translateY(0px);
+  height: 141px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_one_line_one, #crm_dash_svg_hero_card_one_line_two, #crm_dash_svg_hero_card_one_line_three, #crm_dash_svg_hero_card_one_line_four {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 6s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_one_line_one, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_one_line_two, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_one_line_three, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_one_line_four {
+  width: 50px;
+  opacity: 1;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_circle_one {
+  stroke-dasharray: 230;
+  stroke-dashoffset: -230;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 6s;
+}
+
+#crm_dash_svg_hero_card_two {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 4.5s;
+  transform: translateY(-30px);
+  height: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two {
+  transform: translateY(0px);
+  height: 92px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_two_line_one, #crm_dash_svg_hero_card_two_line_three, #crm_dash_svg_hero_card_two_line_five, #crm_dash_svg_hero_card_two_line_seven, #crm_dash_svg_hero_card_two_line_nine {
+  stroke-dasharray: 100;
+  stroke-dashoffset: -100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 8s;
+}
+#crm_dash_svg_hero_card_two_line_two, #crm_dash_svg_hero_card_two_line_four, #crm_dash_svg_hero_card_two_line_six, #crm_dash_svg_hero_card_two_line_eight, #crm_dash_svg_hero_card_two_line_ten {
+  stroke-dasharray: 100;
+  stroke-dashoffset: -100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 9s;
+}
+
+#crm_dash_svg_hero_card_three {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 6s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_three {
+  width: 89px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_three_line {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_three_line {
+  width: 42px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_three_circle {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7.5s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_three_circle {
+  width: 42px;
+  opacity: 1;
+}
+
+#crm_dash_svg_hero_card_four {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 6s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_four {
+  width: 89px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_four_line {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_four_line {
+  width: 42px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_four_circle {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7.5s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_four_circle {
+  width: 42px;
+  opacity: 1;
+}
+
+#crm_dash_svg_hero_card_five {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 3s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five {
+  width: 320px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_five_dark_line_one {
+  stroke-dasharray: 80;
+  stroke-dashoffset: -80;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 5s;
+}
+
 /* First Illustration (CRM Dashboard) - End */
 
 /*  */
