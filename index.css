@@ -207,6 +207,37 @@ body {
 }
 /* Know More - End */
 
+/* Side Arrow Button - Start */
+.side_arrow_btn .side_arrow_circle {
+  fill: #ea550f;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.side_arrow_top {
+  fill: white;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.side_arrow_bottom {
+  stroke: white;
+  transition: all;
+  transition-duration: 0.5s;
+}
+
+.side_arrow_btn:hover .side_arrow_circle {
+  fill: #a6c626;
+}
+.side_arrow_btn:hover .side_arrow_top {
+  fill: black;
+  transform: translate(200px, -200px);
+}
+.side_arrow_btn:hover .side_arrow_bottom {
+  stroke: black;
+  transform: translate(200px, -200px);
+}
+/* Side Arrow Button - End */
+
+
 /* First Illustration (Social Media) - Start */
 .social_media_svg_hero_rect_one {
   transition: all;
@@ -1157,13 +1188,19 @@ body {
   height: 92px;
   opacity: 1;
 }
-#crm_dash_svg_hero_card_two_line_one, #crm_dash_svg_hero_card_two_line_three, #crm_dash_svg_hero_card_two_line_five, #crm_dash_svg_hero_card_two_line_seven, #crm_dash_svg_hero_card_two_line_nine {
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_one {
   stroke-dasharray: 100;
   stroke-dashoffset: -100;
   animation: drawPath 1.5s ease forwards;
   animation-delay: 8s;
 }
-#crm_dash_svg_hero_card_two_line_two, #crm_dash_svg_hero_card_two_line_four, #crm_dash_svg_hero_card_two_line_six, #crm_dash_svg_hero_card_two_line_eight, #crm_dash_svg_hero_card_two_line_ten {
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_three, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_five, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_seven, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_nine {
+  stroke-dasharray: 100;
+  stroke-dashoffset: -100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 8s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_two, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_four, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_six, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_eight, .crm_dash_svg_hero_animate #crm_dash_svg_hero_card_two_line_ten {
   stroke-dasharray: 100;
   stroke-dashoffset: -100;
   animation: drawPath 1.5s ease forwards;
@@ -1249,14 +1286,200 @@ body {
   width: 320px;
   opacity: 1;
 }
-#crm_dash_svg_hero_card_five_dark_line_one {
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_one {
   stroke-dasharray: 80;
   stroke-dashoffset: -80;
   animation: drawPath 1.5s ease forwards;
-  animation-delay: 5s;
+  animation-delay: 6s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_two {
+  stroke-dasharray: 120;
+  stroke-dashoffset: -120;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 7.2s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_three {
+  stroke-dasharray: 100;
+  stroke-dashoffset: -100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 8.3s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_four {
+  stroke-dasharray: -100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 9s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_five {
+  stroke-dasharray: -100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 10s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_six {
+  stroke-dasharray: -100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 10.5s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_dark_line_seven {
+  stroke-dasharray: -100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 11.8s;
+}
+/* */
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_one {
+  stroke-dasharray: 80;
+  stroke-dashoffset: 80;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 6s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_two {
+  stroke-dasharray: 120;
+  stroke-dashoffset: 120;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 6.8s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_three {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 7.2s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_four {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 8s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_five {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 8.6s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_six {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 9.5s;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_light_line_seven {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: drawPath 1.5s ease forwards;
+  animation-delay: 10.3s;
 }
 
+#crm_dash_svg_hero_card_five_deposit_block {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_deposit_block {
+  width: 5px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_five_deposit_block_text {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7.5s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_deposit_block_text {
+  width: 100%;
+  opacity: 1;
+}
+
+#crm_dash_svg_hero_card_five_withdraw_block {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 7.5s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_withdraw_block {
+  width: 5px;
+  opacity: 1;
+}
+#crm_dash_svg_hero_card_five_withdraw_block_text {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 8s;
+  width: 0;
+  opacity: 0;
+}
+.crm_dash_svg_hero_animate #crm_dash_svg_hero_card_five_withdraw_block_text {
+  width: 100%;
+  opacity: 1;
+}
 /* First Illustration (CRM Dashboard) - End */
+
+/* First Illustration (SEO) - Start */
+
+#seo_svg_hero_main_bg {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 1s;
+  width: 0;
+  opacity: 0;
+}
+.seo_svg_hero_animate #seo_svg_hero_main_bg {
+  width: 100%;
+  opacity: 1;
+}
+
+#seo_svg_hero_google_bg {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 2s;
+  width: 0;
+  opacity: 0;
+}
+.seo_svg_hero_animate #seo_svg_hero_google_bg {
+  width: 31px;
+  opacity: 1;
+}
+
+#seo_svg_hero_google_logo {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 3s;
+  height: 0;
+  opacity: 0;
+}
+.seo_svg_hero_animate #seo_svg_hero_google_logo {
+  height: 2000px;
+  opacity: 1;
+}
+
+#seo_svg_hero_google_search {
+  transition: all ease;
+  transition-duration: 2.5s;
+  transition-delay: 3s;
+  width: 0;
+  opacity: 0;
+}
+.seo_svg_hero_animate #seo_svg_hero_google_search {
+  width: 173px;
+  opacity: 1;
+}
+
+#seo_svg_hero_google_search_text {
+  transition: all ease;
+  transition-duration: 2s;
+  transition-delay: 3.5s;
+  opacity: 0;
+}
+.seo_svg_hero_animate #seo_svg_hero_google_search_text {
+  opacity: 1;
+}
+
+/* First Illustration (SEO) - End */
 
 /*  */
 .accordion-item {
@@ -1326,38 +1549,60 @@ body {
 .btn_arrow_circle:hover .btn_arrow_circle_text {
   transform: translateX(12px);
 }
+/* Common Arrow Button */
 
-.read_more_btn .read_more_btn_circle,
-.read_more_btn .read_more_btn_line,
-.read_more_btn .read_more_btn_path {
+/* Our Latest Blog - Start */
+
+.blog_card {
   transition: all;
-  transition-duration: 0.6s;
+  transition-duration: 0.5s;
 }
-.read_more_btn .read_more_btn_circle {
+.blog_card:hover {
+  cursor: pointer;
+  scale: 1.01;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.blog_card .blog_card_side_arrow_btn .side_arrow_circle {
   fill: #ea550f;
+  transition: all;
+  transition-duration: 0.5s;
 }
-.read_more_btn .read_more_btn_line {
-  stroke: #fff;
+.blog_card .blog_card_side_arrow_btn .side_arrow_top {
+  fill: white;
+  transition: all;
+  transition-duration: 0.5s;
 }
-.read_more_btn .read_more_btn_path {
-  fill: #fff;
+.blog_card .blog_card_side_arrow_btn .side_arrow_bottom {
+  stroke: white;
+  transition: all;
+  transition-duration: 0.5s;
 }
-.read_more_btn:hover .read_more_btn_circle {
+.blog_card:hover .blog_card_side_arrow_btn .side_arrow_circle {
   fill: #a6c626;
 }
-.read_more_btn:hover .read_more_btn_line {
-  transform: translate(190px, -190px);
-  stroke: #000000;
+.blog_card:hover .blog_card_side_arrow_btn .side_arrow_top {
+  fill: black;
+  transform: translate(200px, -200px);
 }
-.read_more_btn:hover .read_more_btn_path {
-  transform: translate(190px, -190px);
-  fill: #000000;
+.blog_card:hover .blog_card_side_arrow_btn .side_arrow_bottom {
+  stroke: black;
+  transform: translate(200px, -200px);
 }
-/* Common Arrow Button */
+
+/* Our Latest Blog - End */
 
 @keyframes drawPath {
   to {
     stroke-dashoffset: 0;
+  }
+}
+
+@keyframes drawPathCustom {
+  from {
+    stroke-dashoffset: 52; /* Start hidden */
+  }
+  to {
+    stroke-dashoffset: 0; /* Fully drawn (from bottom to top) */
   }
 }
 

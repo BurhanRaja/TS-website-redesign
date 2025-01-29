@@ -54,6 +54,19 @@ if (document.querySelector("#crm_dash_svg_id_hero")) {
 observerCrmDashSvgHero.observe(document.querySelector("#crm_dash_svg_id_hero"));
 }
 
+const observerSeoSvgHero = new IntersectionObserver((enteries) => {
+  enteries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      document
+        .querySelector("#seo_svg_id_hero")
+        .classList.add("seo_svg_hero_animate");
+    }
+  });
+});
+if (document.querySelector("#seo_svg_id_hero")) {
+  observerSeoSvgHero.observe(document.querySelector("#seo_svg_id_hero"));
+}
+
 // --------------------------------- Know More Icon Animation - Start -------------------------------------------
 const arrowKnowMoreOnePathOne = document.querySelector(
   "#arrow_know_more_one_path_one"
@@ -333,5 +346,83 @@ crmDashSvgHeroCardTwoLineTen.style.strokeDasharray = crmDashSvgHeroCardTwoLineTe
 crmDashSvgHeroCardTwoLineTen.style.strokeDashoffset = crmDashSvgHeroCardTwoLineTenLength;
 
 // 
+const crmDashSvgHeroCardFiveLineOne = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_one");
+const crmDashSvgHeroCardFiveLineOneLength = crmDashSvgHeroCardFiveLineOne?.getTotalLength();
+crmDashSvgHeroCardFiveLineOne.style.strokeDasharray = crmDashSvgHeroCardFiveLineOneLength;
+crmDashSvgHeroCardFiveLineOne.style.strokeDashoffset = crmDashSvgHeroCardFiveLineOneLength;
+
+const crmDashSvgHeroCardFiveLineTwo = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_two");
+const crmDashSvgHeroCardFiveLineTwoLength = crmDashSvgHeroCardFiveLineTwo?.getTotalLength();
+crmDashSvgHeroCardFiveLineTwo.style.strokeDasharray = crmDashSvgHeroCardFiveLineTwoLength;
+crmDashSvgHeroCardFiveLineTwo.style.strokeDashoffset = crmDashSvgHeroCardFiveLineTwoLength;
+
+const crmDashSvgHeroCardFiveLineThree = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_three");
+const crmDashSvgHeroCardFiveLineThreeLength = crmDashSvgHeroCardFiveLineThree?.getTotalLength();
+crmDashSvgHeroCardFiveLineThree.style.strokeDasharray = crmDashSvgHeroCardFiveLineThreeLength;
+crmDashSvgHeroCardFiveLineThree.style.strokeDashoffset = crmDashSvgHeroCardFiveLineThreeLength;
+
+const crmDashSvgHeroCardFiveLineFour = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_four");
+const crmDashSvgHeroCardFiveLineFourLength = crmDashSvgHeroCardFiveLineFour?.getTotalLength();
+crmDashSvgHeroCardFiveLineFour.style.strokeDasharray = crmDashSvgHeroCardFiveLineFourLength;
+crmDashSvgHeroCardFiveLineFour.style.strokeDashoffset = crmDashSvgHeroCardFiveLineFourLength;
+
+const crmDashSvgHeroCardFiveLineFive = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_five");
+const crmDashSvgHeroCardFiveLineFiveLength = crmDashSvgHeroCardFiveLineFive?.getTotalLength();
+crmDashSvgHeroCardFiveLineFive.style.strokeDasharray = crmDashSvgHeroCardFiveLineFiveLength;
+crmDashSvgHeroCardFiveLineFive.style.strokeDashoffset = crmDashSvgHeroCardFiveLineFiveLength;
+
+const crmDashSvgHeroCardFiveLineSix = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_six");
+const crmDashSvgHeroCardFiveLineSixLength = crmDashSvgHeroCardFiveLineSix?.getTotalLength();
+crmDashSvgHeroCardFiveLineSix.style.strokeDasharray = crmDashSvgHeroCardFiveLineSixLength;
+crmDashSvgHeroCardFiveLineSix.style.strokeDashoffset = crmDashSvgHeroCardFiveLineSixLength;
+
+const crmDashSvgHeroCardFiveLineSeven = document.querySelector("#crm_dash_svg_hero_card_five_dark_line_seven");
+const crmDashSvgHeroCardFiveLineSevenLength = crmDashSvgHeroCardFiveLineSeven?.getTotalLength();
+crmDashSvgHeroCardFiveLineSeven.style.strokeDasharray = crmDashSvgHeroCardFiveLineSevenLength;
+crmDashSvgHeroCardFiveLineSeven.style.strokeDashoffset = crmDashSvgHeroCardFiveLineSevenLength;
+
+// 
+const crmDashSvgHeroCardFiveLightLineOne = document.querySelector("#crm_dash_svg_hero_card_five_light_line_one");
+const crmDashSvgHeroCardFiveLightLineOneLength = crmDashSvgHeroCardFiveLightLineOne?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineOne.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineOneLength;
+crmDashSvgHeroCardFiveLightLineOne.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineOneLength;
+
+const crmDashSvgHeroCardFiveLightLineTwo = document.querySelector("#crm_dash_svg_hero_card_five_light_line_two");
+const crmDashSvgHeroCardFiveLightLineTwoLength = crmDashSvgHeroCardFiveLightLineTwo?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineTwo.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineTwoLength;
+crmDashSvgHeroCardFiveLightLineTwo.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineTwoLength;
+
+const crmDashSvgHeroCardFiveLightLineThree = document.querySelector("#crm_dash_svg_hero_card_five_light_line_three");
+const crmDashSvgHeroCardFiveLightLineThreeLength = crmDashSvgHeroCardFiveLightLineThree?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineThree.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineThreeLength;
+crmDashSvgHeroCardFiveLightLineThree.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineThreeLength;
+
+const crmDashSvgHeroCardFiveLightLineFour = document.querySelector("#crm_dash_svg_hero_card_five_light_line_four");
+const crmDashSvgHeroCardFiveLightLineFourLength = crmDashSvgHeroCardFiveLightLineFour?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineFour.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineFourLength;
+crmDashSvgHeroCardFiveLightLineFour.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineFourLength;
+
+const crmDashSvgHeroCardFiveLightLineFive = document.querySelector("#crm_dash_svg_hero_card_five_light_line_five");
+const crmDashSvgHeroCardFiveLightLineFiveLength = crmDashSvgHeroCardFiveLightLineFive?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineFive.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineFiveLength;
+crmDashSvgHeroCardFiveLightLineFive.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineFiveLength;
+
+const crmDashSvgHeroCardFiveLightLineSix = document.querySelector("#crm_dash_svg_hero_card_five_light_line_six");
+const crmDashSvgHeroCardFiveLightLineSixLength = crmDashSvgHeroCardFiveLightLineSix?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineSix.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineSixLength;
+crmDashSvgHeroCardFiveLightLineSix.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineSixLength;
+
+const crmDashSvgHeroCardFiveLightLineSeven = document.querySelector("#crm_dash_svg_hero_card_five_light_line_seven");
+const crmDashSvgHeroCardFiveLightLineSevenLength = crmDashSvgHeroCardFiveLightLineSeven?.getTotalLength();
+crmDashSvgHeroCardFiveLightLineSeven.style.strokeDasharray = crmDashSvgHeroCardFiveLightLineSevenLength;
+crmDashSvgHeroCardFiveLightLineSeven.style.strokeDashoffset = crmDashSvgHeroCardFiveLightLineSevenLength;
+
 
 // --------------------------------- First Illustration (CRM Dashboard) - End --------------------------
+
+
+// --------------------------------- First Illustration (SEO) - Start --------------------------
+
+
+
+// --------------------------------- First Illustration (SEO) - End --------------------------
